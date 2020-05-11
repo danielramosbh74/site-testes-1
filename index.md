@@ -10,5 +10,5 @@ Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos pr
 
 Faço isso basicamente organizando e resumindo informações.
 
-Uma das formas de ajudá-lo(a) em seu negócio é criando procedimentos padronizados em textos simples e itemizados como este e em planilhas Google para sistematizar suas rotinas de trabalho.
+Normalmente crio procedimentos padronizados em textos simples e itemizados como este e também planilhas Google para sistematizar a sua rotina de trabalho e/ou o seu modelo de negócio.
 
