@@ -17,3 +17,5 @@ Normalmente crio procedimentos padronizados em textos simples e itemizados como 
 2. Baseado na linguagem Markdown e em um tema padrão
 3. Hospedado gratuitamente no próprio Github
 4. Rápido, visualmente simples e limpo e facil de usar
+
+## [Currículo](https://docs.google.com/document/d/e/2PACX-1vT4ZszyCHsQ7uXm00EuLSWy834s5TeKNlMAkgSNJEWKDftY6m3I1jlFf44HvDcSYa2wFVWyHzmGudgN/pub)
