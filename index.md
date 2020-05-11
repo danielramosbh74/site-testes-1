@@ -10,9 +10,9 @@ Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos pr
 
 Basicamente organizo, resumo e padronizo informações e procedimentos.
 
-Não desenvolvo "sistemas" do zero, mas ensino as pessoas a utilizar melhor os sistemas e recursos já existentes e também outros que considero extremamente interessantes, úteis e simples de usar, como o Git Hub e o G Suite (Google Apps).
+Procuro simplificar o modelo de negócios e/ou a rotina de trabalho de pequenas empresas e de outros desenvolvedores e/ou empreendedores freelancers ou MEI, reduzindo custos e otimizando os recursos (humanos, financeiros e materiais) existentes.
 
-Normalmente crio procedimentos padronizados em textos simples e itemizados como este e também planilhas Google para sistematizar a sua rotina de trabalho e/ou o seu modelo de negócio.
+Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes e também implanto novas soluções que considero extremamente interessantes, úteis e simples de usar, como o Git Hub e o G Suite / Google Apps: Documentos, Planilhas, Agenda e Google Sites, por exemplo.
 
 ### _Este site_ é um _exemplo prático_ de como valorizo as coisas simples e de como elas trazem _benefícios_: 
 1. Site estático (apenas frontend, HTML, CSS e JavaScript)
