@@ -20,4 +20,23 @@ Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes 
 3. Hospedado gratuitamente no próprio Github
 4. Rápido, visualmente simples e limpo e facil de usar
 
+## Como costumo trabalhar - Minha proposta padrão - Um resumo dos "Termos do serviço"
+
+Independente dos detalhes específicos de seu projeto, costumo trabalhar da seguinte forma:
+
+1. Cobro um valor "POR HORA" quando estamos trabalhando JUNTOS, ou seja, quando acesso remotamente o seu computador ou quando fico disponível 1 hora para trocarmos ideias juntos via Whatsapp enquanto te oriento ou recebo orientações suas em alguma tarefa prática na frente do computador.
+
+2. Cobro um PREÇO FECHADO "POR TAREFA" (estimada entre 1 a 2 horas de trabalho, mas com foco na tarefa e não no tempo gasto nela) quando trabalho SOZINHO.
+- Para cada tarefa é estimado um prazo e ela será conferida, corrigida (se for o caso), aprovada.
+- As tarefas serão controladas em uma Planilha Google Compartilhada, como a deste exemplo
+- Para evitarmos transtornos, cada tarefa será paga imediatamente ou em até 2 dias úteis após a sua aprovação, como se fosse o acerto de uma aula particular, pois as coisas simples sempre funcionam melhor.
+
+## Quanto custa o meu trabalho
+
+Tanto trabalhando "por hora" quanto "por tarefa", o valor é variável e negociável de forma justa em função de:
+
+1. Benefício do resultado do trabalho para o cliente
+2. Nível de urgência: prazo tranquilo ou apertado
+3. Know-how (Quase tudo "parece" ser "simples" e "rápido" de ser feito, mas só para quem tem "anos de estudo, dedicação e experiência")
+
 ## [Currículo](https://docs.google.com/document/d/e/2PACX-1vT4ZszyCHsQ7uXm00EuLSWy834s5TeKNlMAkgSNJEWKDftY6m3I1jlFf44HvDcSYa2wFVWyHzmGudgN/pub)
