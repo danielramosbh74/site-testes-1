@@ -10,7 +10,7 @@ I do believe simple things work better. That's why one of my professional goals 
 
 Basicaly, I work organizing and summarizing informations.
 
-I do it creating standard procedures in simple and itemized texts documents like this one and also using Google Sheets.
+I do it creating standard procedures in simple and itemized texts documents like this site and also teaching how to use or implement G Suite / Google Apps in your business.
 
 ### _This website_ is a _practical example_ of how I do value simple things and how them bring us _benefits_ 
 1. Static website (just frontend, HTML, CSS e JavaScript)
