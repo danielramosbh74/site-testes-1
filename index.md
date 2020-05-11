@@ -25,10 +25,11 @@ Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes 
 Independente dos detalhes específicos de seu projeto, costumo trabalhar da seguinte forma:
 
 1. Cobro um valor "POR HORA" quando estamos trabalhando JUNTOS, ou seja, quando acesso remotamente o seu computador ou quando fico disponível 1 hora para trocarmos ideias juntos via Whatsapp enquanto te oriento ou recebo orientações suas em alguma tarefa prática na frente do computador.
+- As horas de consultoria prestada ou treinamento recebido serão controladas em uma **Planilha Google compartilhada**, como a deste [exemplo](https://docs.google.com/spreadsheets/d/1RwlMWIJXpUln2lKrowaPILAg6Vsf9COazdYHEu8qr2g/edit?usp=sharing)
 
 2. Cobro um PREÇO FECHADO "POR TAREFA" (estimada entre 1 a 2 horas de trabalho, mas com foco na tarefa e não no tempo gasto nela) quando trabalho SOZINHO.
 - Para cada tarefa é estimado um prazo e ela será conferida, corrigida (se for o caso), aprovada.
-- As tarefas serão controladas em uma Planilha Google Compartilhada, como a deste exemplo
+- As tarefas serão controladas em uma **Planilha Google compartilhada**, como a deste [exemplo](https://docs.google.com/spreadsheets/d/1RwlMWIJXpUln2lKrowaPILAg6Vsf9COazdYHEu8qr2g/edit?usp=sharing)
 - Para evitarmos transtornos, cada tarefa será paga imediatamente ou em até 2 dias úteis após a sua aprovação, como se fosse o acerto de uma aula particular, pois as coisas simples sempre funcionam melhor.
 - Cada tarefa terá duração "estimada" entre 1 a 2 horas, mesmo quando for negociado um valor fechado pelo "pacote de tarefas" (uma "etapa" de um "Grande projeto"), minimizando erros comuns que acontecem ao estimar horas em grandes projetos.
 Todo grande projeto pode (e deve) ser dividido em "pequenas etapas" (conjunto de "pequenas tarefas" de, no máximo, 2 horas cada).
