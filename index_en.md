@@ -6,7 +6,7 @@
 
 I do believe simple things work better. That's why one of my professional goals is help you to simplify your life, both professional and personal too, because they're closely related and one afect the other.
 
-## How do I work?
+## What I do
 
 Basicaly, I work organizing and summarizing informations.
 
