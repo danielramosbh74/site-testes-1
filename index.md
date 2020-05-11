@@ -1,6 +1,6 @@
 # Site pessoal e profissional de Daniel (danielramosbh74)
 
-## English version
+## [English version](https://danielramosbh74.github.io/index_en)
 
 ## Introdução
 
