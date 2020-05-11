@@ -18,3 +18,5 @@ I do it creating standard procedures in simple and itemized texts documents like
 3. Free hosted on Github
 4. Fast, visually clean and easy to use.
 
+## [My Resume](https://danielramosbh74.github.io/my-resume/)
+
