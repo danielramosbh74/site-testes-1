@@ -30,6 +30,8 @@ Independente dos detalhes específicos de seu projeto, costumo trabalhar da segu
 - Para cada tarefa é estimado um prazo e ela será conferida, corrigida (se for o caso), aprovada.
 - As tarefas serão controladas em uma Planilha Google Compartilhada, como a deste exemplo
 - Para evitarmos transtornos, cada tarefa será paga imediatamente ou em até 2 dias úteis após a sua aprovação, como se fosse o acerto de uma aula particular, pois as coisas simples sempre funcionam melhor.
+- Cada tarefa terá duração "estimada" entre 1 a 2 horas, mesmo quando for negociado um valor fechado pelo "pacote de tarefas" (uma "etapa" de um "Grande projeto"), minimizando erros comuns que acontecem ao estimar horas em grandes projetos.
+Todo grande projeto pode (e deve) ser dividido em "pequenas etapas" (conjunto de "pequenas tarefas", como estas de, no máximo, 2 horas). Trabalhando desta forma temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
 
 ## Quanto custa o meu trabalho
 
