@@ -12,3 +12,8 @@ Faço isso basicamente organizando e resumindo informações.
 
 Normalmente crio procedimentos padronizados em textos simples e itemizados como este e também planilhas Google para sistematizar a sua rotina de trabalho e/ou o seu modelo de negócio.
 
+### _Este site_ é um _exemplo prático_ de como valorizo as coisas simples e de como elas trazem _benefícios_: 
+1. Site estático (apenas frontend, HTML, CSS e JavaScript)
+2. Baseado na linguagem Markdown e em um tema padrão
+3. Hospedado gratuitamente no próprio Github
+4. Rápido, visualmente simples e limpo e facil de usar
