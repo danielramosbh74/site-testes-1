@@ -1,7 +1,7 @@
 # Site pessoal e profissional de Daniel (danielramosbh74)
 
 <!-- ## [English version - REVISAR - Desatualizada](https://danielramosbh74.github.io/index_en) -->
-## [English version - OUTDATED](https://danielramosbh74.github.io/index_en) -->
+## [English version - OUTDATED](https://danielramosbh74.github.io/index_en)
 
 ## Introdução
 
