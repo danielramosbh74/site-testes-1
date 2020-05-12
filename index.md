@@ -1,18 +1,40 @@
 # Site pessoal e profissional de Daniel (danielramosbh74)
 
-## [English version](https://danielramosbh74.github.io/index_en)
+<!-- ## [English version - REVISAR - Desatualizada](https://danielramosbh74.github.io/index_en) -->
 
 ## Introdução
 
-Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos profissionais é ajudá-lo(a) a simplificar sua sua vida, tanto profissional quanto pessoal, pois inevitavelmente elas estão intimamente relacionadas e uma afeta a outra.
+Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos profissionais é ajudá-lo(a) a **simplificar o seu trabalho**.
+
+Se você também é **empreendedor** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), trazer resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
 
 ## O que eu faço
 
 Basicamente organizo, resumo e padronizo informações e procedimentos.
 
-Procuro simplificar o modelo de negócios e/ou a rotina de trabalho de pequenas empresas e de outros desenvolvedores e/ou empreendedores freelancers ou MEI, reduzindo custos e otimizando os recursos (humanos, financeiros e materiais) existentes.
+1. Desenvolvo sites, mais especificamente Sites Institucionais básicos, portfólios ou  como este aqui no Github ou no **Google Sites** (Conheça alguns [benefícios](https://www.google.com/search?q=beneficios+google+sites&oq=beneficios+google+sites&aqs=chrome..69i57.5606j0j7&sourceid=chrome&ie=UTF-8))
 
-Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes e também implanto novas soluções que considero extremamente interessantes, úteis e simples de usar, como o Git Hub e o G Suite / Google Apps: Documentos, Planilhas, Agenda e Google Sites, por exemplo.
+  Conheça minha [Proposta padrão - Implantação de Google Site Institucional](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
+
+2. Posso ajudá-lo com planejamento e controle criando e editando **planilhas administrativas**
+
+3. Implanto e administro o **G Suite** em sua empresa.
+
+  Sou [Certificado em G Suite Administration](https://www.coursera.org/account/accomplishments/specialization/ZVUC5RXBVQBJ)
+
+4. Crio **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
+
+5. Presto serviços remotos de Consultoria em TI e Assessoria administrativa.
+
+  Assuntos diversos. Conte-me sua demanda. Quem sabe poderei ajudá-lo.
+
+6. Digitação e edição de documentos de texto e dados em planilhas, sistemas e lojas virtuais remotamente.
+Basta me passar os acessos e fotos legíveis pelo Whatsapp ou e-mail.
+
+7. Documentação e tradução de software.
+
+8. E vários outros serviços relacionados à TI e administração.
+Basta me perguntar. Quem sabe poderei ajudá-lo(a).
 
 ### _Este site_ é um _exemplo prático_ de como valorizo as coisas simples e de como elas trazem _benefícios_: 
 1. Site estático (apenas frontend, Markdown, HTML, CSS e JavaScript)
@@ -24,15 +46,11 @@ Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes 
 
 Independente dos detalhes específicos de seu projeto, costumo trabalhar da seguinte forma:
 
-1. Cobro um valor "POR HORA" quando estamos trabalhando JUNTOS, ou seja, quando acesso remotamente o seu computador ou quando fico disponível 1 hora para trocarmos ideias juntos via Whatsapp enquanto te oriento ou recebo orientações suas em alguma tarefa prática na frente do computador.
-- As horas de consultoria prestada ou treinamento recebido serão controladas em uma **Planilha Google compartilhada**, como a deste [exemplo](https://docs.google.com/spreadsheets/d/1RwlMWIJXpUln2lKrowaPILAg6Vsf9COazdYHEu8qr2g/edit?usp=sharing)
+1. Utilizo a seguinte lógica: Qualquer _projeto_, por maior que seja, pode (e deve) ser dividido em _"pequenas etapas"_, que por sua vez, também podem e devem ser divididas em _"pequenas tarefas"_, pois desta forma o trabalho fica mais fácil de ser planejado, controlado, conferido, corrigido, aprovado e pago. Desta forma as horas estimadas ou gastas são mais facilmente mensuráveis.
 
-2. Cobro um PREÇO FECHADO "POR TAREFA" (estimada entre 1 a 2 horas de trabalho, mas com foco na tarefa e não no tempo gasto nela) quando trabalho SOZINHO.
-- Para cada tarefa é estimado um prazo e ela será conferida, corrigida (se for o caso), aprovada.
-- As tarefas serão controladas em uma **Planilha Google compartilhada**, como a deste [exemplo](https://docs.google.com/spreadsheets/d/1RwlMWIJXpUln2lKrowaPILAg6Vsf9COazdYHEu8qr2g/edit?usp=sharing)
-- Para evitarmos transtornos, cada tarefa será paga imediatamente ou em até 2 dias úteis após a sua aprovação, como se fosse o acerto de uma aula particular, pois as coisas simples sempre funcionam melhor.
-- Cada tarefa terá duração "estimada" entre 1 a 2 horas, mesmo quando for negociado um valor fechado pelo "pacote de tarefas" (uma "etapa" de um "Grande projeto"), minimizando erros comuns que acontecem ao estimar horas em grandes projetos.
-Todo grande projeto pode (e deve) ser dividido em "pequenas etapas" (conjunto de "pequenas tarefas" de, no máximo, 2 horas cada).
+2. Compartilho uma planilha específica para o seu projeto baseada nesta [planilha MODELO](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit#gid=0).
+
+Nesta planilha planejaremos e controlaremos as horas gastas em cada consultoria prestada (recebendo ou dando orientações) e cada etapa de seu projeto, detalhando suas respectivas tarefas e uma estimativa de horas para fecharmos um preço justo para cada etapa.
 
 Trabalhando desta forma temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
 
