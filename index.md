@@ -28,12 +28,6 @@ Basicamente organizo, resumo e padronizo informações e procedimentos.
 4. Crio **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 5. Documentação e tradução de software.
 
-### _Este site_ é um _exemplo prático_ de como valorizo as coisas simples e de como elas trazem _benefícios_: 
-1. Site estático (apenas frontend, Markdown, HTML, CSS e JavaScript)
-2. Baseado na linguagem Markdown e em um tema padrão
-3. Hospedado gratuitamente no próprio Github
-4. Rápido, visualmente simples e limpo e facil de usar
-
 ## Como costumo trabalhar - Minha proposta padrão - Um resumo dos "Termos do serviço"
 
 Independente dos detalhes específicos de seu projeto, costumo trabalhar da seguinte forma:
