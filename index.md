@@ -15,7 +15,7 @@ Procuro simplificar o modelo de negócios e/ou a rotina de trabalho de pequenas 
 Ensino empreendedores a utilizarem melhor os sistemas e recursos já existentes e também implanto novas soluções que considero extremamente interessantes, úteis e simples de usar, como o Git Hub e o G Suite / Google Apps: Documentos, Planilhas, Agenda e Google Sites, por exemplo.
 
 ### _Este site_ é um _exemplo prático_ de como valorizo as coisas simples e de como elas trazem _benefícios_: 
-1. Site estático (apenas frontend, HTML, CSS e JavaScript)
+1. Site estático (apenas frontend, Markdown, HTML, CSS e JavaScript)
 2. Baseado na linguagem Markdown e em um tema padrão
 3. Hospedado gratuitamente no próprio Github
 4. Rápido, visualmente simples e limpo e facil de usar
