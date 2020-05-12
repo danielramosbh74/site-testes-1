@@ -16,7 +16,6 @@ Basicamente organizo, resumo e padronizo informações e procedimentos.
 1. Presto serviços remotos de **Consultoria em TI e Assessoria administrativa**.
   - Trabalho com planejamento e controle usando **Planilhas Google**
   - Terceirize o trabalho operacional comigo, como a **digitação de textos e dados** em documentos, planilhas, sistemas e lojas virtuais.
-    - Basta me passar os acessos e fotos legíveis pelo Whatsapp ou e-mail.
   - Consulte-me sobre outros serviços. Basta me perguntar. Quem sabe poderei ajudá-lo(a).
 2. Implanto e administro o **G Suite**.
   - Sou [Certificado em G Suite Administration](https://www.coursera.org/account/accomplishments/specialization/ZVUC5RXBVQBJ)
