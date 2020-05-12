@@ -39,7 +39,7 @@ Independente dos detalhes específicos de seu projeto, costumo trabalhar da segu
 
 Nesta planilha planejaremos e controlaremos as horas gastas em cada consultoria prestada (recebendo ou dando orientações) e cada etapa de seu projeto, detalhando suas respectivas tarefas e uma **estimativa de horas** para fecharmos um **preço justo para cada etapa**.
 
-Trabalhando desta forma, **pagando ao final de cada _"pequena etapa concluída e aprovada"_**, temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
+Trabalhando desta forma, **recebendo ao final de cada _"pequena etapa concluída e aprovada"_**, temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
 
 ## Quanto custa o meu trabalho
 
