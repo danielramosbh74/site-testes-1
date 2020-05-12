@@ -13,7 +13,7 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 
 Basicamente organizo, resumo e padronizo informações e procedimentos.
 
-1. Desenvolvo sites, mais especificamente Sites Institucionais básicos, portfólios ou  como este aqui no Github ou no **Google Sites**
+1. Desenvolvo sites, mais especificamente Sites Institucionais básicos baseados no **Google Sites**
   - Veja alguns [Benefícios](https://www.google.com/search?q=beneficios+google+sites&oq=beneficios+google+sites&aqs=chrome..69i57.5606j0j7&sourceid=chrome&ie=UTF-8)
   - Exemplos:
     - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
