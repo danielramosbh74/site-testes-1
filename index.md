@@ -6,7 +6,7 @@
 
 Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos profissionais é ajudá-lo(a) a **simplificar o seu trabalho**.
 
-Se você também é **empreendedor** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), trazer resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
+Se você também é **empreendedor(a)** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), trazer resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
 
 ## O que eu faço
 
