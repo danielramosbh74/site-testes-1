@@ -28,7 +28,8 @@ Basicamente organizo, resumo e padronizo informações e procedimentos.
 4. Crio **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 5. Documentação e tradução de software.
 
-## Como costumo trabalhar - Minha proposta padrão - Um resumo dos "Termos do serviço"
+## Como costumo trabalhar - Minha proposta padrão
+### Um resumo dos "Termos do serviço"
 
 Independente dos detalhes específicos de seu projeto, costumo trabalhar da seguinte forma:
 
@@ -36,9 +37,9 @@ Independente dos detalhes específicos de seu projeto, costumo trabalhar da segu
 
 2. Compartilho uma planilha específica para o seu projeto baseada nesta [planilha MODELO](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit#gid=0).
 
-Nesta planilha planejaremos e controlaremos as horas gastas em cada consultoria prestada (recebendo ou dando orientações) e cada etapa de seu projeto, detalhando suas respectivas tarefas e uma estimativa de horas para fecharmos um preço justo para cada etapa.
+Nesta planilha planejaremos e controlaremos as horas gastas em cada consultoria prestada (recebendo ou dando orientações) e cada etapa de seu projeto, detalhando suas respectivas tarefas e uma **estimativa de horas** para fecharmos um **preço justo para cada etapa**.
 
-Trabalhando desta forma temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
+Trabalhando desta forma, **pagando ao final de cada _"pequena etapa concluída e aprovada"_**, temos um andamento tranquilo (sem stress) do projeto, todos ficam satisfeitos e temos um cronograma físico-financeiro suave, fácil de ser pago, com maior segurança (menor risco) para ambas as partes.
 
 ## Quanto custa o meu trabalho
 
