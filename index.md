@@ -13,7 +13,11 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 
 Basicamente organizo, resumo e padronizo informações e procedimentos.
 
-1. Desenvolvo sites, mais especificamente Sites Institucionais básicos, portfólios ou  como este aqui no Github ou no **Google Sites** (Conheça alguns [benefícios](https://www.google.com/search?q=beneficios+google+sites&oq=beneficios+google+sites&aqs=chrome..69i57.5606j0j7&sourceid=chrome&ie=UTF-8))
+1. Desenvolvo sites, mais especificamente Sites Institucionais básicos, portfólios ou  como este aqui no Github ou no **Google Sites**
+  - Veja alguns [Benefícios](https://www.google.com/search?q=beneficios+google+sites&oq=beneficios+google+sites&aqs=chrome..69i57.5606j0j7&sourceid=chrome&ie=UTF-8)
+  - Exemplos:
+    - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
+    - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
   - Conheça minha [Proposta padrão - Implantação de Google Site Institucional](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 2. Posso ajudá-lo com planejamento e controle criando e editando **planilhas administrativas**
 3. Implanto e administro o **G Suite** em sua empresa.
