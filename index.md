@@ -27,7 +27,7 @@ Basicamente organizo, resumo e padronizo informações e procedimentos.
 4. Crio **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 5. Documentação e tradução de software.
 
-## ["Termos do serviço"](https://danielramosbh74.github.io/termos-do-servico.md) - Leia e veja como costumo trabalhar
+## ["Termos do serviço"](https://danielramosbh74.github.io/termos-do-servico) - Leia e veja como costumo trabalhar
 
 ## Quanto custa o meu trabalho
 
