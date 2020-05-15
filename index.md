@@ -13,7 +13,6 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 
 1. [Consultoria avulsa em TI](https://docs.google.com/document/d/e/2PACX-1vQOGJ0b4hVrWVz4ZeUd0FHAxwJ31DKMA8Qxt5PMHc2AoK2FLTnGZC6pIK4-3ogDdxSh-AI2MxA0pdaN/pub)
 2. [Cadastramento de produtos em lojas virtuais](https://docs.google.com/document/d/e/2PACX-1vRlnVtkMSQK-hXQg2INxM2IvtIXz4IShJIYqaqapZiCW7SnpoQxvzwD7BwqgsbxNu48DFDPAkvOQEEF/pub)
-- Consulte-me sobre outros serviços. Basta me perguntar. Quem sabe poderei ajudá-lo(a).
 3. Implantação e administração do **G Suite**.
 - Sou [Certificado em G Suite Administration](https://www.coursera.org/account/accomplishments/specialization/ZVUC5RXBVQBJ)
 4. Criação e Desenvolvimento de Google Sites Institucionais
@@ -26,6 +25,7 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
 5. Crição de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 6. Documentação e tradução de software.
+- **Consulte-me sobre outros serviços**. Basta me perguntar. Quem sabe poderei ajudá-lo(a).
 
 ## [Como trabalho](https://danielramosbh74.github.io/termos-do-servico)
 
