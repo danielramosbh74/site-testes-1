@@ -12,7 +12,7 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 ## Serviços
 
 1. [Consultoria avulsa em TI](https://docs.google.com/document/d/e/2PACX-1vQOGJ0b4hVrWVz4ZeUd0FHAxwJ31DKMA8Qxt5PMHc2AoK2FLTnGZC6pIK4-3ogDdxSh-AI2MxA0pdaN/pub)
-2. [Digitação de dados ou cadastramento](https://docs.google.com/document/d/e/2PACX-1vQVN2Yf1A-ID135uGsKT8BnR4kGX4s3WaAa7JDhsd7KOJsQz9aC-vCzV0AEWVWhwd17ScMAVOBSe79B/pub)
+2. [Cadastramento de produtos em lojas virtuais](https://docs.google.com/document/d/e/2PACX-1vRlnVtkMSQK-hXQg2INxM2IvtIXz4IShJIYqaqapZiCW7SnpoQxvzwD7BwqgsbxNu48DFDPAkvOQEEF/pub)
 - Consulte-me sobre outros serviços. Basta me perguntar. Quem sabe poderei ajudá-lo(a).
 3. Implantação e administração do **G Suite**.
 - Sou [Certificado em G Suite Administration](https://www.coursera.org/account/accomplishments/specialization/ZVUC5RXBVQBJ)
