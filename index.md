@@ -14,10 +14,9 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 1. [Consultoria avulsa em TI](https://docs.google.com/document/d/e/2PACX-1vQOGJ0b4hVrWVz4ZeUd0FHAxwJ31DKMA8Qxt5PMHc2AoK2FLTnGZC6pIK4-3ogDdxSh-AI2MxA0pdaN/pub)
 2. [Cadastramento de produtos em lojas virtuais](https://docs.google.com/document/d/e/2PACX-1vRlnVtkMSQK-hXQg2INxM2IvtIXz4IShJIYqaqapZiCW7SnpoQxvzwD7BwqgsbxNu48DFDPAkvOQEEF/pub)
 3. Implantação e administração do **G Suite**.
-4. Criação e Desenvolvimento de **Google Sites**
-- Veja alguns **benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
+4. [Criação e Desenvolvimento de Google Sites](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
+- **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
 - Voltados principalmente para profissionais liberais (engenheiros, advogados, consultores, etc)
-- Veja também a minha [Proposta padrão para Implantação de um Google Site Institucional básico](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 - Exemplos:
   - [MBM Engenharia Ltda](https://www.mbmengenhariabh.com.br/)
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
