@@ -24,7 +24,9 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
 5. Crição de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 6. Documentação e tradução de software.
-- **Consulte-me sobre outros serviços**. Basta me perguntar. Quem sabe poderei ajudá-lo(a). ;)
+- Veja este [exemplo](https://github.com/danielramosbh74/gd2md-html/tree/master/translations/pt-BR)
+
+**Consulte-me sobre outros serviços**. Basta me perguntar. Quem sabe poderei ajudá-lo(a). ;)
 
 ![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png)
 
