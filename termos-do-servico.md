@@ -36,7 +36,7 @@ Você terá 2 opções:
 
 2. Contração através da intermediação de algum marketplace de RH:
 
-O pagamento será feito para o marketplace (ex. 99freelas, Workana, Freelancer, etc) no ato da aprovação da proposta aceita nele e o marketplace te garantirá a qualidade de meu serviço e o meu pagamento somente se ele for bem feito.
+- O pagamento será feito para o marketplace (ex. 99freelas, Workana, Freelancer, etc) no ato da aprovação da proposta aceita nele e o marketplace te garantirá a qualidade de meu serviço e o meu pagamento somente se ele for bem feito.
 Neste caso o pagamento será feito somente na conclusão e no valor total do projeto, não "por etapas".
 
 #### Considerações finais
