@@ -32,7 +32,8 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 6. Documentação e tradução de software.
 - Veja este [exemplo](https://github.com/danielramosbh74/gd2md-html/tree/master/translations/pt-BR)
 
-**Consulte-me sobre outros serviços**. Basta me perguntar. Quem sabe poderei ajudá-lo(a). ;)
+**Consulte-me sobre outros serviços**. Basta me perguntar. 
+Quem sabe poderei ajudá-lo(a) ;)
 
 ![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png)
 
