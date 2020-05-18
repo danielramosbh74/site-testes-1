@@ -9,6 +9,10 @@ Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos pr
 
 Se você também é **empreendedor(a)** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), organizar, resumir e padronizar informações e procedimentos para obter mais resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
 
+Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a venda de meus serviços (e pode simplificar a venda dos seus):
+
+## [Como trabalho](https://danielramosbh74.github.io/termos-do-servico)
+
 ## Serviços
 
 1. [Consultoria avulsa em TI](https://docs.google.com/document/d/e/2PACX-1vQOGJ0b4hVrWVz4ZeUd0FHAxwJ31DKMA8Qxt5PMHc2AoK2FLTnGZC6pIK4-3ogDdxSh-AI2MxA0pdaN/pub)
@@ -36,7 +40,5 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
 Quem sabe poderei ajudá-lo(a) ;)
 
 ![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png)
-
-## [Como trabalho](https://danielramosbh74.github.io/termos-do-servico)
 
 ## [Currículo](https://docs.google.com/document/d/e/2PACX-1vT4ZszyCHsQ7uXm00EuLSWy834s5TeKNlMAkgSNJEWKDftY6m3I1jlFf44HvDcSYa2wFVWyHzmGudgN/pub)
