@@ -41,13 +41,13 @@ Neste caso o pagamento será feito somente na conclusão e no valor total do pro
 
 #### Considerações finais
 
-- Visando maior produtividade e também a conciliação com outros projetos, normalmente cada etapa, seja ela de Consultoria ou Execução, será limitada a 1,5 hora / dia.
+- Visando maior produtividade e também a conciliação com outros projetos, normalmente **cada etapa, seja ela de Consultoria ou Execução, será limitada a 1,5 hora / dia**. Sendo assim, o **prazo estimado de execução** leva esta condição em consideração.
 
 - Nos comunicaremos preferencialmente pelo Whatsapp nas “etapas de Consultoria” e sempre que for necessário.
 OBS: Sempre respondo as mensagens “assim que possível”, mas entre as 9:00 e 19:00 hs, portanto quando não for uma dúvida urgente o ideal será agendarmos uma etapa de consultoria, pois preciso conciliar o andamento de seu projeto com os demais.
 
 - Algumas vezes entretanto será mais produtivo nos comunicarmos também pelo Gmail, Google Hangouts e/ou Chrome Remote Desktop, pois pode ser necessário visualizar a tela de seu computador, controlá-lo remotamente para te orientar melhor ou resolver algum problema ou apenas compartilharmos algum arquivo para visualização ou edição remota no Google Drive.
-Um exemplo disso é a planilha de controle do projeto (veja este [MODELO](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit#gid=0), que será compartilhada com você e visa o acompanhamento e controle do cronograma físico-financeiro do projeto, que será apresentado mais à frente.
+Um exemplo disso é a planilha de controle do projeto (veja este [MODELO](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit#gid=0)), que será compartilhada com você no caso de projetos com duração igual ou superior a 6 horas e visa o acompanhamento e controle do cronograma físico-financeiro do projeto.
 
 - Com exceção do Whatsapp, só utilizo os aplicativos da Google por questão de praticidade, simplicidade e costume. Portanto não abrirei uma conta no Skype ou TeamViewer, por exemplo, apenas para atender a uma demanda isolada, pois as ferramentas da Google que utilizo são gratuitas e acessíveis a qualquer um, independente da plataforma utilizada (Windows, Linux ou Mac)
 
