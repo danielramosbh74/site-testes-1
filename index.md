@@ -22,6 +22,9 @@ Se você também é **empreendedor(a)** e precisa constantemente otimizar seus r
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
 5. Crição de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
+- Exemplos de terceiros:
+  - https://youtu.be/FKCPpxFSewU
+  - https://youtu.be/6FNT_njj2jI
 6. Documentação e tradução de software.
 - Veja este [exemplo](https://github.com/danielramosbh74/gd2md-html/tree/master/translations/pt-BR)
 
