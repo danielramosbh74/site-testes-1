@@ -29,7 +29,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - [MBM Engenharia Ltda](https://www.mbmengenhariabh.com.br/)
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
-5. Crição de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
+5. Criação de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
 - Exemplos de terceiros:
   - [Using Google Sites Intranet to Systemise Your Business - Part 1 Features and Benefits](https://youtu.be/FKCPpxFSewU)
   - [Google Sites: Did you know you can use them as an Intranet solution?](https://youtu.be/6FNT_njj2jI)
