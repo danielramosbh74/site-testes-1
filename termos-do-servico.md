@@ -50,8 +50,3 @@ OBS: Sempre respondo as mensagens “assim que possível”, mas entre as 9:00 e
 Um exemplo disso é a planilha de controle do projeto (veja este [MODELO](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit#gid=0)), que será compartilhada com você no caso de projetos com duração igual ou superior a 6 horas e visa o acompanhamento e controle do cronograma físico-financeiro do projeto.
 
 - Com exceção do Whatsapp, só utilizo os aplicativos da Google por questão de praticidade, simplicidade e costume. Portanto não abrirei uma conta no Skype ou TeamViewer, por exemplo, apenas para atender a uma demanda isolada, pois as ferramentas da Google que utilizo são gratuitas e acessíveis a qualquer um, independente da plataforma utilizada (Windows, Linux ou Mac)
-
-
-Sendo assim, caso você ache interessante e concorde com a minha forma de trabalhar, **minha sugestão é fecharmos inicialmente um "micro projeto piloto", composto de apenas 2 "etapas", sendo uma de Consultoria e outra de Execução.**
-
-Uma vez conquistada a confiança bilateral neste "micro projeto piloto", poderemos negociar as demais etapas de seu projeto.
