@@ -24,7 +24,6 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 3. Implantação e administração do **G Suite**.
 4. [Criação e Desenvolvimento de Google Sites](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 - **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
-- Voltados principalmente para profissionais liberais (engenheiros, advogados, consultores, etc)
 - Exemplos:
   - [MBM Engenharia Ltda](https://www.mbmengenhariabh.com.br/)
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
