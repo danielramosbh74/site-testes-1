@@ -27,6 +27,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 - **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
 - Exemplos:
   - [MBM Engenharia Ltda](https://www.mbmengenhariabh.com.br/)
+  - [Ponto Certo Serviços](https://www.pontocerto.srv.br/)
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
 4. Criação de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
