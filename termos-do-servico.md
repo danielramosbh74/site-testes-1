@@ -5,7 +5,7 @@ Independente dos detalhes específicos de seu projeto, costumo trabalhar da segu
 
 1. Visando minimizar ou até mesmo eliminar o "risco contratual" para ambas as partes, acho interessante e produtivo nos conhecermos profissionalmente "aos poucos".
 
-2. Utilizo a seguinte lógica: Qualquer _projeto_, por maior ou mais complexo que seja, pode (e deve) ser dividido em _"pequenas etapas"_, que por sua vez, também podem e devem ser divididas em _"pequenas tarefas"_.
+2. Utilizo a seguinte lógica: Qualquer _projeto_, por maior ou mais complexo que seja, pode (e deve) ser dividido em _"pequenas etapas"_, que por sua vez são compostas de _"pequenas tarefas"_.
 
 Desta forma o trabalho fica mais fácil de ser planejado, controlado, mesurado, conferido, corrigido, aprovado e pago.
 
