@@ -23,7 +23,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - [Movimento de caixa - Com Plano de Contas - Validação de dados - Códigos e ProcV](https://docs.google.com/spreadsheets/d/1YQlkUSU3eWJi_6oHCk4G2aAz3Bsjf1Q6XjL4jwmxOVQ/edit?usp=sharing)
 2. Implantação e administração do **G Suite**.
 
-3. Criação e Desenvolvimento de Google Sites
+3. Criação e Desenvolvimento de **Google Sites**
 - [Proposta - Implantação de um Google Site básico](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 - **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
 - Exemplos:
@@ -31,8 +31,11 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - [Ponto Certo Serviços](https://www.pontocerto.srv.br/)
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
-4. Criação de **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseadas no Google Sites.
-- Exemplos de terceiros:
+  
+4. Criação e Desenvolvimento de **Sistemas web** e **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseados no **Google Sites**.
+- Exemplo:
+  - [RH Webmaster - EM DESENVOLVIMENTO](https://sites.google.com/view/rhwebmaster/pagina-inicial)
+- Vídeos de terceiros exemplificando as vantagens:
   - [Using Google Sites Intranet to Systemise Your Business - Part 1 Features and Benefits](https://youtu.be/FKCPpxFSewU)
   - [Google Sites: Did you know you can use them as an Intranet solution?](https://youtu.be/6FNT_njj2jI)
 5. Documentação e tradução de software.
