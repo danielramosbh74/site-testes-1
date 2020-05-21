@@ -22,6 +22,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - [Controle de projetos](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit?usp=sharing)
   - [Movimento de caixa - Com Plano de Contas - Validação de dados - Códigos e ProcV](https://docs.google.com/spreadsheets/d/1YQlkUSU3eWJi_6oHCk4G2aAz3Bsjf1Q6XjL4jwmxOVQ/edit?usp=sharing)
 2. Implantação e administração do **G Suite**.
+
 3. Criação e Desenvolvimento de Google Sites
 - [Proposta - Implantação de um Google Site básico](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 - **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
