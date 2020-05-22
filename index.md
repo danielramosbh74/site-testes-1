@@ -1,15 +1,15 @@
 # Apresentação - Daniel Ramos (danielramosbh74)
 
+Sou formado em engenharia civil pela UFMG, mas atualmente trabalho como **Consultor em TI** e também presto serviços de **Assessoria Administrativa**, principalmente para profissionais liberais, MEI (Microempreendedores Individuais) e pequenas empresas.
+
 <!-- ## [English version - REVISAR - Desatualizada](https://danielramosbh74.github.io/index_en) -->
-## [English version - OUTDATED](https://danielramosbh74.github.io/index_en)
+<!-- ## [English version - OUTDATED](https://danielramosbh74.github.io/index_en) -->
 
-## Introdução
+<!-- ## Introdução -->
+Acredito que tudo mais simples funciona melhor, por isso te ajudarei a **simplificar o seu dia a dia no trabalho** caso você me contrate.
 
-Acredito que tudo mais simples funciona melhor, por isso um de meus objetivos profissionais é ajudá-lo(a) a **simplificar o seu trabalho**.
-
-Se você também é **empreendedor(a)** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), organizar, resumir e padronizar informações e procedimentos para obter mais resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
-
-Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a venda de meus serviços (e pode simplificar a venda dos seus):
+<!-- Se você também é **empreendedor(a)** e precisa constantemente otimizar seus recursos (financeiros, humanos e materiais), organizar, resumir e padronizar informações e procedimentos para obter mais resultados e reduzir seus custos, meus serviços poderão ser úteis para você.
+Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a venda de meus serviços (e pode simplificar a venda dos seus): -->
 
 ## [Como trabalho](https://danielramosbh74.github.io/termos-do-servico)
 
