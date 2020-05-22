@@ -21,9 +21,15 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - Exemplos:
   - [Controle de projetos](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit?usp=sharing)
   - [Movimento de caixa - Com Plano de Contas - Validação de dados - Códigos e ProcV](https://docs.google.com/spreadsheets/d/1YQlkUSU3eWJi_6oHCk4G2aAz3Bsjf1Q6XjL4jwmxOVQ/edit?usp=sharing)
-2. Implantação e administração do **G Suite**.
+- Programação:
+  - HTML, CSS, JavaScript (Puro ou usando Angular no front-end e Node no back-end)
+- Infraestrutura na nuvem:
+  - Implantação e administração do **G Suite**
+  <p align="center">
+<img src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true" width="400" alt="Certificado G Suite">
+</p>
 
-3. Criação e Desenvolvimento de **Google Sites**
+2. Criação e Desenvolvimento de **Google Sites**
 - [Proposta - Implantação de um Google Site básico](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
 - **Benefícios:** Simples, rápidos, bonitos, responsivos, fáceis de editar e atualizar (você terá acesso) e baratos!
 - Exemplos:
@@ -32,20 +38,22 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
   
-4. Criação e Desenvolvimento de **Sistemas web** e **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseados no **Google Sites**.
+3. Criação e Desenvolvimento de **Sistemas web** e **Intranets** (sites com acesso restrito a funcionários ou colaboradores) baseados no **Google Sites**.
 - Exemplo:
   - [RH Webmaster - EM DESENVOLVIMENTO](https://sites.google.com/view/rhwebmaster/pagina-inicial)
 - Vídeos de terceiros exemplificando as vantagens:
   - [Using Google Sites Intranet to Systemise Your Business - Part 1 Features and Benefits](https://youtu.be/FKCPpxFSewU)
   - [Google Sites: Did you know you can use them as an Intranet solution?](https://youtu.be/6FNT_njj2jI)
-5. Documentação e tradução de software.
-- Veja este [exemplo](https://github.com/danielramosbh74/gd2md-html/tree/master/translations/pt-BR)
-6. Digitação de dados - Em planilhas, documentos de texto, sistemas e lojas virtuais
-- [Proposta - Cadastramento de produtos em lojas virtuais](https://docs.google.com/document/d/e/2PACX-1vRlnVtkMSQK-hXQg2INxM2IvtIXz4IShJIYqaqapZiCW7SnpoQxvzwD7BwqgsbxNu48DFDPAkvOQEEF/pub)
+
+4. Outros serviços:
+- Documentação e tradução de software.
+  - Veja este [exemplo](https://github.com/danielramosbh74/gd2md-html/tree/master/translations/pt-BR)
+- Digitação de dados - Em planilhas, documentos de texto, sistemas e lojas virtuais
+  - [Proposta - Cadastramento de produtos em lojas virtuais](https://docs.google.com/document/d/e/2PACX-1vRlnVtkMSQK-hXQg2INxM2IvtIXz4IShJIYqaqapZiCW7SnpoQxvzwD7BwqgsbxNu48DFDPAkvOQEEF/pub)
 
 **Consulte-me sobre outros serviços**. Basta me perguntar. 
 Quem sabe poderei ajudá-lo(a) ;)
 
-![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png)
+<!-- ![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png) -->
 
 ## [Currículo](https://docs.google.com/document/d/e/2PACX-1vT4ZszyCHsQ7uXm00EuLSWy834s5TeKNlMAkgSNJEWKDftY6m3I1jlFf44HvDcSYa2wFVWyHzmGudgN/pub)
