@@ -24,7 +24,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 - Programação:
   - HTML, CSS, JavaScript (Puro ou usando Angular no front-end e Node no back-end)
 - Infraestrutura na nuvem:
-  - Implantação e administração do **G Suite** - Seu Gmail Empresarial (@SuaEmpresa.com.br) e muito mais!
+  - Implantação e administração do [G Suite](https://www.google.com/appserve/mkt/p/AFnwnKUDUBO9YwFzXFXirQh0I1O67uWsnRbY2SAPsRIRNuz2I6NUIiyWkN9e38Brf2bihl6bVVamOHCdSqh-L3W1p-XFDXnZeGzdbkzQ7x7QMOvuYmc) - Seu Gmail Empresarial (@SuaEmpresa.com.br) e muito mais!
   <p align="center">
 <img src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true" width="400" alt="Certificado G Suite"></p>
 
