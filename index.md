@@ -26,8 +26,7 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 - Infraestrutura na nuvem:
   - Implantação e administração do **G Suite** - Seu Gmail Empresarial (@SuaEmpresa.com.br) e muito mais!
   <p align="center">
-<img src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true" width="400" alt="Certificado G Suite">
-</p>
+<img src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true" width="400" alt="Certificado G Suite"></p>
 
 ### Criação e Desenvolvimento de Sites simples baseados no _Google Sites_
 - [Proposta - Implantação de um Google Site básico](https://docs.google.com/document/d/e/2PACX-1vTbdf-VHAz_v0_16yYMftqaQbKLDpqqkcqMgP1HfKTMbHPqPll0JiRnioViE703bT9X73ju7m0uu8dV/pub)
