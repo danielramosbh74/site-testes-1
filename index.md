@@ -21,8 +21,9 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
   - Exemplos:
   - [Controle de projetos](https://docs.google.com/spreadsheets/d/1m-keNEWa1AIkxRtxG7HGU8Qh71zId0TK2Fx9dpbx7OM/edit?usp=sharing)
   - [Movimento de caixa - Com Plano de Contas - Validação de dados - Códigos e ProcV](https://docs.google.com/spreadsheets/d/1YQlkUSU3eWJi_6oHCk4G2aAz3Bsjf1Q6XjL4jwmxOVQ/edit?usp=sharing)
-- Programação:
+- Programação (Com ou sem frameworks):
   - HTML, CSS, JavaScript (Puro ou usando Angular no front-end e Node no back-end)
+  - WordPress (PHP)
 - Infraestrutura na nuvem:
   - Implantação e administração do [G Suite](https://www.google.com/appserve/mkt/p/AFnwnKUDUBO9YwFzXFXirQh0I1O67uWsnRbY2SAPsRIRNuz2I6NUIiyWkN9e38Brf2bihl6bVVamOHCdSqh-L3W1p-XFDXnZeGzdbkzQ7x7QMOvuYmc) - Seu Gmail Empresarial (@SuaEmpresa.com.br) e muito mais!
   <p align="center">
