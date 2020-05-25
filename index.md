@@ -35,15 +35,13 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 - Exemplos:
   - [MBM Engenharia Ltda](https://www.mbmengenhariabh.com.br/)
   - [Ponto Certo Serviços](https://www.pontocerto.srv.br/)
-  - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
-  - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen)
+<!--  - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
+  - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen) -->
   
 ### Criação e Desenvolvimento de **Intranets** e **Sistemas web** (sites com login de usuário) baseados no _Google Sites_.
 <!-- 
-- Exemplo de **Intranet**:
-  - [RH Webmaster 1 - EM DESENVOLVIMENTO](https://sites.google.com/view/rh-webmaster-1/pagina-inicial)
-- Exemplo de **Sistema web**:
-  - [RH Webmaster 2 - EM DESENVOLVIMENTO](https://sites.google.com/view/rh-webmaster-2/pagina-inicial)
+- Exemplo:
+  - [RH Webmaster - EM DESENVOLVIMENTO](https://sites.google.com/view/rh-webmaster/pagina-inicial)
 -->
 - Vídeos de terceiros exemplificando as vantagens:
   - [Using Google Sites Intranet to Systemise Your Business - Part 1 Features and Benefits](https://youtu.be/FKCPpxFSewU)
