@@ -38,11 +38,10 @@ Veja no link abaixo, **"Como trabalho"**, como a _padronização simplifica_ a v
 <!--  - [Contabilidade](https://sites.google.com/view/exemplo-contabilidade-1)
   - [Instaladora - Reparos residenciais](https://sites.google.com/view/instaladorakaizen) -->
   
-### Criação e Desenvolvimento de **Intranets** e **Sistemas web** (sites com login de usuário) baseados no _Google Sites_.
-<!-- 
+### Criação e Desenvolvimento de **Intranets** e **Sistemas web** (sites com login de usuário) baseados no _Google Sites_. 
 - Exemplo:
   - [RH Webmaster - EM DESENVOLVIMENTO](https://sites.google.com/view/rh-webmaster/pagina-inicial)
--->
+  - Como o site/sistema ainda está em desenvolvimento, **solicite o seu acesso** caso queira testar gratuitamente o sistema.
 - Vídeos de terceiros exemplificando as vantagens:
   - [Using Google Sites Intranet to Systemise Your Business - Part 1 Features and Benefits](https://youtu.be/FKCPpxFSewU)
   - [Google Sites: Did you know you can use them as an Intranet solution?](https://youtu.be/6FNT_njj2jI)
