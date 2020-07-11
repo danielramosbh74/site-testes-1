@@ -1,10 +1,5 @@
-# Daniel Ramos (danielramosbh74.github.io)
-## [Apresentação](https://danielramosbh74.github.io)
+# Daniel Ramos de Carvalho (danielramosbh74.github.io)
+## [Presentation](https://danielramosbh74.github.io)
 
-## DESATUALIZADO
-
-<!-- O que é mais objetivo, direto? Site profissional, Apresentação, Serviços, Portfólio? ->>
-
-<!-- ## [Presentation](https://danielramosbh74.github.io/index_en) -->
-
-<!-- ![G Suite Administration Certificate](/images/Certificado-G-Suite-Administration.png) -->
+"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
+*Edsger W. Dijkstra*
