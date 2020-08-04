@@ -1,6 +1,6 @@
 # Daniel Ramos de Carvalho
 
-<img width="auto" src="https://lh5.googleusercontent.com/8TH8KXwko9xgxFbvfwUD4y6z5ft27AnGBDgWeXzfalaEIK_6w4tWUGQ5GJYEdvnyBGVPVes=w16383">
+<img width="auto" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/charts.png?raw=true">
 
 <!-- ![json-profile](https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/json-profile-image.png?raw=true)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielramosbh74)](https://github.com/danielramosbh74)
