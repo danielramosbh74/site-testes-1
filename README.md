@@ -19,8 +19,8 @@ So nowadays I'm not a civil engineer anymore and I'm studying hard to make an ol
 :rocket:  &nbsp; I'm only working as a freelancer and studying while I'm searching for a more stable job.
 <br/> :purple_heart: &nbsp; Collaborating with some projects organizing and summarizing some informations (ex. Software Documentations) and also start coding in JavaScript, with or without frameworks (ex. Node / React)
 <br/> :blush: &nbsp; I can help you with organization, focus and some tools to simplify your work (ex. G Suite and programming)
-<br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
-<br/> 💬  &nbsp; About me: Love to listen music.
+<!-- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript -->
+<!-- <br/> 💬  &nbsp; About me: Love to listen music. -->
 <br/> :email: &nbsp; Contact: <!-- [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 | --> 
 [![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
