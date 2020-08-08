@@ -13,12 +13,9 @@ I decided to change my occupation about 4 years ago.
 So nowadays I'm not a civil engineer anymore and I'm studying hard to make an old dream come true soon: work only with IT, programming.
 
 :rocket:  &nbsp; I'm only working as a freelancer and studying while I'm searching for a more stable job.
-<br/> :purple_heart: &nbsp; Collaborating with some projects organizing and summarizing some informations (ex. Software Documentations) and also start coding in JavaScript, with or without frameworks (ex. Node / React)
-<br/> :blush: &nbsp; I can help you with organization, focus and some tools to simplify your work (ex. G Suite and programming)
-<!-- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript -->
-<!-- <br/> 💬  &nbsp; About me: Love to listen music. -->
-<!-- <br/> :email: &nbsp; Contact: <!-- [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| --> 
+
+I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Back-end Developer or maybe simply helping with planning and controlling tasks (ex. Agile Methods), organization and focus.
+
 [![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 
