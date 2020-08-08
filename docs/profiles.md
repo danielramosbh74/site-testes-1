@@ -3,7 +3,7 @@
 
 ## It's an attempt to better organize myself in the goal of start in a new job and/or get new clients
 
-### As it is almost impossible to keep so many profiles updated, **the most updated** will be:
+### Considering it's almost impossible to keep my resume updated in so many profiles, platform and apps, **the most updated ones** will be:
 1. [My Github profile](https://github.com/danielramosbh74)
 2. [My Resume](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
