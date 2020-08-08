@@ -1,6 +1,6 @@
 # Daniel Ramos de Carvalho
 
-<img width="auto" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/charts.png?raw=true">
+<img width="500px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/charts.png?raw=true">
 
 <!-- ![json-profile](https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/json-profile-image.png?raw=true)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielramosbh74)](https://github.com/danielramosbh74)
@@ -10,6 +10,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/xxxxx)](https://twitter.com/xxxxx)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/xxxxx/)](https://www.instagram.com/xxxxx/)
 [![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:xxxxx)](mailto:xxxxx) -->
+
+[![GitHub forks](https://img.shields.io/github/forks/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/network)
+[![GitHub stars](https://img.shields.io/github/stars/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/issues)
+![license-badge](https://img.shields.io/github/license/danielramosbh74/danielramosbh74.github.io)
 
 ## Hello
 I decided to change my occupation about 4 years ago.
@@ -23,7 +28,8 @@ So nowadays I'm not a civil engineer anymore and I'm studying hard to make an ol
 <!-- <br/> 💬  &nbsp; About me: Love to listen music. -->
 <!-- <br/> :email: &nbsp; Contact: <!-- [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 | --> 
-[![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 
 # [My Resume](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
