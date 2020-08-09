@@ -41,6 +41,8 @@
 - https://stackoverflow.com/users/4783859/daniel-ramos-de-carvalho
 - https://developer.mozilla.org/en-US/profiles/danielramosbh74
 - https://nodeschool.io/pt-br/#workshopper-list
+- https://www.w3schools.com/jsref/jsref_filter.asp
+
 
 
 <!-- ## My small business: -->
