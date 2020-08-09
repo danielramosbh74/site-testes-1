@@ -40,6 +40,7 @@
 - https://rocketseat.com.br/
 - https://stackoverflow.com/users/4783859/daniel-ramos-de-carvalho
 - https://developer.mozilla.org/en-US/profiles/danielramosbh74
+- https://nodeschool.io/pt-br/#workshopper-list
 
 
 <!-- ## My small business: -->
