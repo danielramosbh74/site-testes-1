@@ -42,6 +42,8 @@
 - https://developer.mozilla.org/en-US/profiles/danielramosbh74
 - https://nodeschool.io/pt-br/#workshopper-list
 - https://www.w3schools.com/jsref/jsref_filter.asp
+- https://www.javascripttutorial.net/javascript-array-filter/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 
 
