@@ -18,3 +18,8 @@
 
 ```npm init -y``` Generates a default package.json answering "yes" to all (no Author neither License)
 
+## VS Code
+
+```!``` Generates the basic HTML tags structure: <html>, <head>, <body>
+  
+  
