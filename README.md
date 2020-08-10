@@ -11,7 +11,7 @@
 ## Hello
 I decided to change my occupation about 4 years ago.
 
-So nowadays I'm not a civil engineer anymore and I'm studying hard to make an old dream come true soon: work only with IT, programming.
+So nowadays I'm not a civil engineer anymore and **I'm studying hard to make an old dream come true soon:** **_work only with IT, programming._**
 
 :rocket:  &nbsp; I'm only working as a freelancer and studying while I'm searching for a more stable job.
 
