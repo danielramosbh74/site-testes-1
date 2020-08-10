@@ -1,6 +1,6 @@
 # Daniel Ramos de Carvalho
 
-<img width="500px" align="center" src="https://raw.githubusercontent.com/danielramosbh74/danielramosbh74.github.io/master/images/roman-synkevych-vXInUOv1n84-unsplash.jpg">
+<img width="400px" align="center" src="https://raw.githubusercontent.com/danielramosbh74/danielramosbh74.github.io/master/images/roman-synkevych-vXInUOv1n84-unsplash.jpg">
 
 [![GitHub forks](https://img.shields.io/github/forks/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/network)
 [![GitHub stars](https://img.shields.io/github/stars/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/stargazers)
