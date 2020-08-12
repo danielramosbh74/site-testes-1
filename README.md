@@ -20,9 +20,24 @@ I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Bac
 [![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 
-[Rocketseat Profile](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
+## See also:
 
-# [My Resume](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
+### [My Resume](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
+
+### [Rocketseat Profile](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
+
+### Some playlists in my YouTube channel
+- [Tips](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOfM9t69ABnK67LV1DZaBeN)
+- [Hard rock 1](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOra5G_XA-dgF7_SgHR5jiQ)
+- [Pet Shop Boys - Originals x Covers](https://www.youtube.com/playlist?list=PLJ2ujWpVndPO31TKSTyAbfY9KE4ROLyny)
+- [Crowdfunding](https://youtu.be/sNwABhx65zM)
+- [Cool things and study](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOFOOMTzP8pAdby_3PoC911)
+
+### Some articles:
+- [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
+- [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho)
+
+### [Tree of this repository with some examples and cool things ;)](https://github.com/danielramosbh74/danielramosbh74)
 
 <img width="500px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
 
