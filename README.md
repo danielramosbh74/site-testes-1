@@ -37,8 +37,6 @@ I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Bac
 - [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
 - [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho)
 
-### [Tree of this repository with some examples and cool things ;)](https://github.com/danielramosbh74/danielramosbh74)
-
 <img width="500px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
 
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
