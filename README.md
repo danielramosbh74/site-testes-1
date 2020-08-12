@@ -20,7 +20,7 @@ I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Bac
 [![Gmail Badge](https://img.shields.io/badge/-danielramosbh74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 
-## See also:
+## See also
 
 ### [My Resume](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
@@ -33,7 +33,7 @@ I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Bac
 - [Crowdfunding](https://youtu.be/sNwABhx65zM)
 - [Cool things and study](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOFOOMTzP8pAdby_3PoC911)
 
-### Some articles:
+### Some articles
 - [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
 - [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho)
 
