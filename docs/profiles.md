@@ -32,6 +32,8 @@
 - https://coodesh.com/
 - https://candidato.recrutamentointeligente.net/usuario/login
 - https://kenoby.com/
+- https://www.infojobs.com.br/
+
 
 
 ## Programming Sites, Forums or Blogs
