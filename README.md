@@ -14,9 +14,7 @@
 ## Hello
 I decided to change my occupation about 4 years ago.
 
-So nowadays I'm not a civil engineer anymore and **I'm studying hard to make an old dream come true soon:** **_work only with IT, programming._**
-
-:rocket:  &nbsp; Today I'm working as a freelancer until I find a new stable job.
+So nowadays I'm not working as a civil engineer anymore and **I'm studying hard and working as a freelancer until I find a new stable job to make an old dream come true soon: work only with IT.**
 
 I'd like to work with G Suite Administration, DevOps and/or with NodeJS as a Back-end Developer or maybe simply helping with planning and controlling tasks (ex. Agile Methods), organization and focus.
 
