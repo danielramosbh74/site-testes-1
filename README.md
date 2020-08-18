@@ -1,6 +1,6 @@
 # Daniel Ramos de Carvalho
 
-<img width="400px" align="center" src="https://raw.githubusercontent.com/danielramosbh74/danielramosbh74.github.io/master/images/roman-synkevych-vXInUOv1n84-unsplash.jpg">
+<img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/logic-gates-from-transistors-2000x1000.png?raw=true">
 
 <!-- 
 [![GitHub forks](https://img.shields.io/github/forks/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/network)
