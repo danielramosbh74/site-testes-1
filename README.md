@@ -1,15 +1,13 @@
 # Daniel Ramos de Carvalho
 
-<img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/logic-gates-from-transistors-2000x1000.png?raw=true">
-
 <!-- 
+<img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/logic-gates-from-transistors-2000x1000.png?raw=true">
 [![GitHub forks](https://img.shields.io/github/forks/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/network)
 [![GitHub stars](https://img.shields.io/github/stars/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/danielramosbh74/danielramosbh74.github.io)](https://github.com/danielramosbh74/danielramosbh74.github.io/issues)
--->
-
 ![license-badge](https://img.shields.io/github/license/danielramosbh74/danielramosbh74.github.io)
 ![nlw-badge](https://img.shields.io/badge/NLW-done-%21bcc1b&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==)
+-->
 
 ## Hello
 I decided to change my occupation about 4 years ago.
