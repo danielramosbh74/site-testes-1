@@ -23,13 +23,17 @@ Presto serviços como programador e também serviços administrativos.
 
 ### Portfólio - Conhecimento e interesses na área de TI
 
-- Conhecimentos e Interesses filtrados por Palavras-chave
-  - Metodologia Ágil, testes automatizados, inteligência artificial
-  - Entrega ou Integração contínua (CI - Continuous Integration)
-    - Veja este exemplo simples aqui mesmo ![Greetings](https://github.com/danielramosbh74/danielramosbh74/workflows/Greetings/badge.svg)
-  - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
 - [Meus repósitórios aqui no Github - Comprovação prática de alguns conhecimentos](https://github.com/danielramosbh74?tab=repositories)
-- Projeto Proffy da Trilha Discovery na NLW#2 Rocketseat ![nlw-badge](https://img.shields.io/badge/NLW-done-%21bcc1b&?logo=data:image/png;base64,
+- Conhecimentos e Interesses filtrados por Palavras-chave
+  - Inteligência artificial
+    - Maratona IBM Behind The Code - Desafio 1 - 2020
+      - [Veja o repositório](https://github.com/danielramosbh74/desafio-IBM-1-2020)
+      - [Teste o app](https://desafio-ibm.mybluemix.net/)
+  - Entrega ou Integração contínua (CI - Continuous Integration)
+    - Teste na prática: abra uma _issue_ para esse repositório e você receberá uma mensagem automática.
+    - Observe no selo ao lado que um CI simples de teste (Greetings) está funcionando ![Greetings](https://github.com/danielramosbh74/danielramosbh74/workflows/Greetings/badge.svg)
+  - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
+- Projeto Proffy da Trilha Discovery na NLW#2 Rocketseat ![nlw-badge](https://img.shields.io/badge/NLW-done-%21bcc1b&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==)
 - [Perfil na Rocketseat - Veja quais os Cursos completei e estou estudando](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
 - Certificados
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
