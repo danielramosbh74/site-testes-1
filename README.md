@@ -14,6 +14,7 @@ Presto serviços como programador e também serviços administrativos.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 ![license-badge](https://img.shields.io/github/license/danielramosbh74/danielramosbh74.github.io)
+![nlw-badge](https://img.shields.io/badge/NLW-done-%21bcc1b&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==)
 
 ## Saiba mais
 
@@ -35,7 +36,6 @@ Presto serviços como programador e também serviços administrativos.
     - Observe no selo ao lado que um CI simples de teste (Greetings) está funcionando ![Greetings](https://github.com/danielramosbh74/danielramosbh74/workflows/Greetings/badge.svg)
     -->
   - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
-- Projeto Proffy da Trilha Discovery na NLW#2 Rocketseat ![nlw-badge](https://img.shields.io/badge/NLW-done-%21bcc1b&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==)
 - [Perfil na Rocketseat - Veja quais os Cursos completei e estou estudando](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
 - Certificados
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
