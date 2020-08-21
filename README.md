@@ -1,4 +1,5 @@
-# Daniel Ramos de Carvalho - [English]()
+# Daniel Ramos de Carvalho
+<!-- [English]() -->
 
 Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralelamente.
 
@@ -15,7 +16,9 @@ Presto serviços como programador e também serviços administrativos.
 
 ## Saiba mais
 
-### [Currículo]()
+- [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing)
+
+- [Currículo em inglês](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
 ### Portfólio - Conhecimento e interesses na área de TI
 
