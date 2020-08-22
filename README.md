@@ -30,23 +30,29 @@ Presto serviços como programador e também serviços administrativos.
     - Maratona IBM Behind The Code - Desafio 1 - 2020
       - [Veja o repositório](https://github.com/danielramosbh74/desafio-IBM-1-2020)
       - [Teste o app](https://desafio-ibm.mybluemix.net/)
-  - Entrega ou Integração contínua (CI - Continuous Integration)
+  - Entrega ou Integração Contínua (CI - Continuous Integration)
     <!--
     - Teste na prática: abra uma _issue_ para esse repositório e você receberá uma mensagem automática.
     - Observe no selo ao lado que um CI simples de teste (Greetings) está funcionando ![Greetings](https://github.com/danielramosbh74/danielramosbh74/workflows/Greetings/badge.svg)
     -->
+    - Testes automatizados - Usei o Jest neste exemplo abaixo
+      - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/testes-automatizados.png?raw=true">
+      
+    - Primeira integração contínua realizada usando o Github Actions com o NodeJS
+      - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/github-actions-2.png?raw=true">     
+      
   - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
 - [Perfil na Rocketseat - Veja quais os Cursos completei e estou estudando](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
 - Certificados
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/Certificado-Curso-Completo-de-PHP-7.png?raw=true">
 
+### Crowdfunding - Financiamento coletivo - Investidores Anjo
+- [Campanha no Apoia-se](https://apoia.se/webmaster1)
+
 ### Clientes
 - [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
 - [Brasil Idiomas](http://brasilidiomas.com.co/)
-
-### Crowdfunding - Financiamento coletivo
-- [Campanha no Apoia-se](https://apoia.se/webmaster1)
 
 ### Hobbies - Músicas e outras coisas que acho interessantes
 
