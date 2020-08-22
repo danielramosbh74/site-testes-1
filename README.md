@@ -38,7 +38,7 @@ Presto serviços como programador e também serviços administrativos.
     - Testes automatizados - Usei o Jest neste exemplo abaixo
       - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/testes-automatizados.png?raw=true">
       
-    - Primeira integração contínua realizada usando o Github Actions com o NodeJS
+    - Primeira integração contínua realizada usando o **Node.js CI** no **Github Actions**
       - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/github-actions-2.png?raw=true">     
       
   - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
