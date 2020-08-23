@@ -25,11 +25,14 @@ Presto serviços como programador e também serviços administrativos.
 ### Portfólio - Conhecimento e interesses na área de TI
 
 - [Meus repósitórios aqui no Github - Comprovação prática de alguns conhecimentos](https://github.com/danielramosbh74?tab=repositories)
-- Conhecimentos e Interesses filtrados por Palavras-chave
+- Pacotes publicados (Resultados práticos alcançados - Disciplina e foco)
+  - https://github.com/danielramosbh74?tab=packages
+- Tentativa de filtrar ou agrupar alguns conhecimentos e interesse por Palavras-chave, mas na verdade estão relacionados entre si.
   - Inteligência artificial
-    - Maratona IBM Behind The Code - Desafio 1 - 2020
-      - [Veja o repositório](https://github.com/danielramosbh74/desafio-IBM-1-2020)
-      - [Teste o app](https://desafio-ibm.mybluemix.net/)
+    - Maratona IBM Behind The Code - Desempenho nos Desafios
+      - <img width="400px" align="center" atl="Desafio 1" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-1.png?raw=true">
+      - <img width="400px" align="center" atl="Desafio 2" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-2.png?raw=true">
+      - <img width="400px" align="center" atl="Desafio 3" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-3.png?raw=true">
   - Entrega ou Integração Contínua (CI - Continuous Integration)
     <!--
     - Teste na prática: abra uma _issue_ para esse repositório e você receberá uma mensagem automática.
@@ -41,7 +44,7 @@ Presto serviços como programador e também serviços administrativos.
     - Primeira integração contínua realizada usando o **Node.js CI** no **Github Actions**
       - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/github-actions-2.png?raw=true">     
       
-  - JavaScript, NodeJS, React, Angular, Python, PHP, .Net, C#, Java
+  - JavaScript, NodeJS, React, Angular, PHP, Python, Go.
 - [Perfil na Rocketseat - Veja quais os Cursos completei e estou estudando](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
 - Certificados
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
