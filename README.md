@@ -18,9 +18,7 @@ Presto serviços como programador e também serviços administrativos.
 
 ## Saiba mais
 
-- [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing)
-
-- [Currículo em inglês](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
+- [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [Currículo em inglês](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
 ### Portfólio - Conhecimento e interesses na área de TI
 
