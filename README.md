@@ -50,6 +50,7 @@ Presto serviços como programador e também serviços administrativos.
 
 ### Crowdfunding - Financiamento coletivo - Investidores Anjo
 - [Campanha no Apoia-se](https://apoia.se/webmaster1)
+- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus.
 
 ### Clientes
 - [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
