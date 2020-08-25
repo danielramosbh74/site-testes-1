@@ -20,48 +20,37 @@ Presto serviços como programador e também serviços administrativos.
 
 - [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [Currículo em inglês](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
-### Portfólio - Conhecimento e interesses na área de TI
+### Portfólio
 
-- [Meus repósitórios aqui no Github - Comprovação prática de alguns conhecimentos](https://github.com/danielramosbh74?tab=repositories)
-- Pacotes publicados (Resultados práticos alcançados - Disciplina e foco)
-  - https://github.com/danielramosbh74?tab=packages
-- Tentativa de filtrar ou agrupar alguns conhecimentos e interesse por Palavras-chave, mas na verdade estão relacionados entre si.
-  - Inteligência artificial
-    - Maratona IBM Behind The Code - Desempenho nos Desafios
-      - <img width="400px" align="center" atl="Desafio 1" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-1.png?raw=true">
-      - <img width="400px" align="center" atl="Desafio 2" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-2.png?raw=true">
-      - <img width="400px" align="center" atl="Desafio 3" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/desempenho-desafio-3.png?raw=true">
-  - Entrega ou Integração Contínua (CI - Continuous Integration)
-    <!--
-    - Teste na prática: abra uma _issue_ para esse repositório e você receberá uma mensagem automática.
-    - Observe no selo ao lado que um CI simples de teste (Greetings) está funcionando ![Greetings](https://github.com/danielramosbh74/danielramosbh74/workflows/Greetings/badge.svg)
-    -->
-    - Testes automatizados - Usei o Jest neste exemplo abaixo
-      - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/testes-automatizados.png?raw=true">
-      
-    - Primeira integração contínua realizada usando o **Node.js CI** no **Github Actions**
-      - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/github-actions-2.png?raw=true">     
-      
-  - JavaScript, NodeJS, React, Angular, PHP, Python, Go.
-- [Perfil na Rocketseat - Veja quais os Cursos completei e estou estudando](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
-- Certificados
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/Certificado-Curso-Completo-de-PHP-7.png?raw=true">
+#### Certificados
+- <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74.github.io/blob/master/images/Certificado-G-Suite-Administration.png?raw=true">
+- <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/Certificado-Curso-Completo-de-PHP-7.png?raw=true">
 
-### Crowdfunding - Financiamento coletivo - Investidores Anjo
-- [Campanha no Apoia-se](https://apoia.se/webmaster1)
-- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus.
+#### Alguns resultados e assuntos abordados
+(Tecnologias e interesses - Pesquise também nos meus repositórios para ter uma ideia melhor e mais prática)
+
+- [Pacotes publicados aqui no Github](https://github.com/danielramosbh74?tab=packages)
+- [Meus repósitórios aqui no Github](https://github.com/danielramosbh74?tab=repositories)
+- Maratona IBM Behind The Code
+  - Inteligência artificial, machine learning, python
+- Realizei minha primeira Entrega / Integração Contínua usando o **Node.js CI** no **Github Actions**
+  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/github-actions-2.png?raw=true">
+  - Nesta integração usei o Jest para testes automatizados
+  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/testes-automatizados.png?raw=true">
+- [Cursos que completei e estou estudando na Rocketseat](https://app.rocketseat.com.br/me/daniel-ramos-de-carvalho-01639)
 
 ### Clientes
 - [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
 - [Brasil Idiomas](http://brasilidiomas.com.co/)
 
-### Hobbies - Músicas e outras coisas que acho interessantes
+### Crowdfunding - Financiamento coletivo - Investidores Anjo
+- [Campanha no Apoia-se](https://apoia.se/webmaster1)
+- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus.
 
+### Hobbies - Músicas e outras coisas que acho interessantes
 - Playlists diversas no YouTube
   - [Cool things and study](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOFOOMTzP8pAdby_3PoC911)
   - [Tips](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOfM9t69ABnK67LV1DZaBeN)
-  
 - Algumas Músicas
   - [Hard rock 1](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOra5G_XA-dgF7_SgHR5jiQ)
   - [Pet Shop Boys - Originals x Covers](https://www.youtube.com/playlist?list=PLJ2ujWpVndPO31TKSTyAbfY9KE4ROLyny)
