@@ -31,6 +31,10 @@ Presto serviços como programador e também serviços administrativos.
 
 - [Pacotes publicados aqui no Github](https://github.com/danielramosbh74?tab=packages)
 - [Meus repósitórios aqui no Github](https://github.com/danielramosbh74?tab=repositories)
+- Alguns projetos onde colaborei:
+  - https://github.com/filipedeschamps/BrasilAPI - Update CONTRIBUTING.md
+  - https://github.com/evbacher/gd2md-html - Update dev-pt-br.md
+  - Arctic Code Vault Contributor - danielramosbh74/wordpressplugin01
 - Maratona IBM Behind The Code
   - Inteligência artificial, machine learning, python
 - Realizei minha primeira Entrega / Integração Contínua usando o **Node.js CI** no **Github Actions**
