@@ -9,7 +9,7 @@ Hoje sou freelancer e MEI (Microempreendedor Individual).
 
 Presto serviços como programador e também serviços administrativos.
 
-**Estou continuamente buscando novos clientes e, quem sabe, um bom emprego na área de TI ou até mesmo um "investidor anjo".**
+**Estou buscando um emprego na área de TI ou novos clientes.**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
@@ -54,9 +54,9 @@ Presto serviços como programador e também serviços administrativos.
 - [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
 - [Brasil Idiomas](http://brasilidiomas.com.co/)
 
-### Crowdfunding - Financiamento coletivo - Investidores Anjo
+<!-- ### Crowdfunding - Financiamento coletivo - Investidores Anjo
 - [Campanha no Apoia-se](https://apoia.se/webmaster1)
-- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus.
+- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus. -->
 
 ### Hobbies - Músicas e outras coisas que acho interessantes
 - Playlists diversas no YouTube
