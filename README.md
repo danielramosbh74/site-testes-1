@@ -35,13 +35,15 @@ Presto serviços como programador e também serviços administrativos.
   - https://github.com/filipedeschamps/BrasilAPI - Update CONTRIBUTING.md
   - https://github.com/evbacher/gd2md-html - Update dev-pt-br.md
   - Arctic Code Vault Contributor - danielramosbh74/wordpressplugin01
-- Cursos concluídos
+- **Cursos concluídos**
   - Javascripting - [Nodeshool](https://nodeschool.io/)
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/javascripting-menu.png?raw=true">
   - Javascript - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-javascript.png?raw=true">
   - ES6 - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-ES6.png?raw=true">
+  - **NodeJS** - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
+  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-nodejs-concluido.png?raw=true">
 - Maratona IBM Behind The Code
   - Inteligência artificial, machine learning, python
 - Realizei minha primeira Entrega / Integração Contínua usando o **Node.js CI** no **Github Actions**
