@@ -3,8 +3,8 @@
 
 Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralelamente.
 
-# Estou buscando um emprego na área de TI ou novos clientes
-# _Studying and looking for a job in the IT field or in any administrative function_
+## Estou buscando um emprego na área de TI ou novos clientes
+## _Studying and looking for a job in the IT field or in any administrative function_
 
 ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
 
