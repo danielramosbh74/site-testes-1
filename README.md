@@ -31,7 +31,7 @@ Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralela
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-ES6.png?raw=true">
   - **NodeJS** - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
   - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-nodejs-concluido.png?raw=true">
-
+<!--
 ### Clientes
 - [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
 - [Brasil Idiomas](http://brasilidiomas.com.co/)
@@ -48,9 +48,9 @@ Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralela
   - [Hard rock 1](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOra5G_XA-dgF7_SgHR5jiQ)
   - [Pet Shop Boys - Originals x Covers](https://www.youtube.com/playlist?list=PLJ2ujWpVndPO31TKSTyAbfY9KE4ROLyny)
 
-### Artigos
+<!-- ### Artigos
 - [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
-- [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho)
+- [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho) -->
 
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
