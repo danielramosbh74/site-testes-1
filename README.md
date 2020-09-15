@@ -3,11 +3,15 @@
 
 Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralelamente.
 
-Sendo assim, venho estudando muito nos últimos anos para migrar definitivamente para a área de TI e conseguir um emprego como programador, analista de sistemas, analista de infraestrutura, engenheiro de software ou qualquer outro cargo relacionado.
+Sendo assim, gostaria de migrar definitivamente para a área de TI, preferencialmente trabalhando como analista de infraestrutura, técnico de suporte ou algum cargo semelhante.
 
-_I have a degree in civil engineering from UFMG - Federal University of Minas Gerais, but I have always worked with IT in parallel._
+Como engenheiro civil tenho interesse apenas em parcerias estratégicas em empreendimentos nos quais eu possa participar planejando e coordenando obras, com visão e atuação mais financeira, administrativa e comercial do que técnica.
 
-_So, I have been studying hard in the last few years to definitely migrate to the IT area and get a job as a programmer, systems analyst, infrastructure analyst, software engineer or any other related position._
+_I have a degree in civil engineering from UFMG, but I have always worked with IT in parallel._
+
+_Therefore, I would like to permanently migrate to the IT area, preferably working as an infrastructure analyst, support technician or some similar position._
+
+_As a civil engineer I am only interested in strategic partnerships in projects in which I can participate in planning and coordinating works, with a vision and performance that is more financial, administrative and commercial than technical._
 
 
 ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
