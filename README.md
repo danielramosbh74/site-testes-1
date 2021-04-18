@@ -1,20 +1,29 @@
 # Daniel Ramos de Carvalho
-<!-- [English]() -->
 
 Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralelamente.
 
-Sendo assim, gostaria de migrar definitivamente para a área de TI, preferencialmente trabalhando como analista de infraestrutura, técnico de suporte ou algum cargo semelhante.
+Sendo assim, gostaria de migrar definitivamente para a área de TI.
 
-Como engenheiro civil tenho interesse apenas em parcerias estratégicas em empreendimentos nos quais eu possa participar planejando e coordenando obras, com visão e atuação mais financeira, administrativa e comercial do que técnica.
+Tenho boas noções de programação em diversas linguagens, mas como é necessário especializar em uma, estou começando a estudar e focar em Python.
+
+Da mesma forma, tenho bons conhecimentos sobre infraestrutura de TI, pois já trabalhei como técnico de suporte e supervisor de rede.
+
+Sendo assim, continuo estudando também assuntos relacionados a infraestrutura de TI / DevOps para manter-me atualizado dentro do possível.
+
+
 
 _I have a degree in civil engineering from UFMG, but I have always worked with IT in parallel._
 
-_Therefore, I would like to permanently migrate to the IT area, preferably working as an infrastructure analyst, support technician or some similar position._
+_Therefore, I would like to permanently migrate to the IT area._
 
-_As a civil engineer I am only interested in strategic partnerships in projects in which I can participate in planning and coordinating works, with a vision and performance that is more financial, administrative and commercial than technical._
+_I have good knowledge of programming in several languages, but as it is necessary to specialize in one, I am starting to study and focus on Python._
+
+_Likewise, I have good knowledge of IT infrastructure, as I have worked as a support technician and network supervisor._
+
+_Therefore, I also continue to study issues related to the IT / DevOps infrastructure to keep me updated as much as possible._
 
 
-## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing)
+<!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
