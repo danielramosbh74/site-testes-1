@@ -54,6 +54,7 @@ _As a civil engineer I am only interested in strategic partnerships in projects 
 - [Campanha no Apoia-se](https://apoia.se/webmaster1)
 - Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus. -->
 
+<!--
 ### Hobbies - Músicas e outras coisas que acho interessantes
 - Playlists diversas no YouTube
   - [Cool things and study](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOFOOMTzP8pAdby_3PoC911)
@@ -66,5 +67,7 @@ _As a civil engineer I am only interested in strategic partnerships in projects 
 - [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
 - [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho) -->
 
+<!--
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
+-->
