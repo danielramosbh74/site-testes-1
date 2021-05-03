@@ -1,27 +1,58 @@
 # Daniel Ramos de Carvalho
 
-Sou graduado em engenharia civil pela UFMG, mas sempre trabalhei com TI paralelamente.
+Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é voltar a trabalhar somente na área de TI.
 
-Sendo assim, gostaria de migrar definitivamente para a área de TI.
+_I have a degree in civil engineering from UFMG, but my goal is to return to work only in the IT area._
 
-Tenho boas noções de programação em diversas linguagens, mas como é necessário especializar em uma, estou começando a estudar e focar em Python.
+## Principais qualificações em Infraestrutura de TI - DevOps
 
-Da mesma forma, tenho bons conhecimentos sobre infraestrutura de TI, pois já trabalhei como técnico de suporte e supervisor de rede.
+- Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
 
-Sendo assim, continuo estudando também assuntos relacionados a infraestrutura de TI / DevOps para manter-me atualizado dentro do possível.
+- Focado na implantação, configuração, migração e administração e virtualização de sistemas e redes:
+  - Linux (Usuário há mais de 20 anos, comecei pelo Red Hat instalando-o via CD juntamente com o Windows.     Desde 2016 migrei definitivamente do Windows para o Linux Mint)
+  - Bash (Selo de avaliação de competência no LinkedIn)
+  - Cloud
+    - Certificado como Google Workspace Administrator
+    - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn e Curso na AWS Training Center “Getting Started with DevOps on AWS”)
+  - Virtualização / Containers / Administração de máquinas virtuais e automação de processos / Entrega e Integração Contínua:
+    - Kubernetes, Docker, Virtualbox
+    - YAML, Ansible, Github Actions
+  - Git (Selo de avaliação de competência no LinkedIn) / Github - https://github.com/danielramosbh74
+
+- Conheço os conceitos básicos sobre: 
+  - Arquitetura MVC
+  - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
+  - Metodologias Ágeis (SCRUM, Kanban, etc), Jira
+  - Testes unitários em Python com o Unittest: https://realpython.com/python-testing/#writing-your-first-test
+  - Bancos de dados relacionais (ex. SQL, MySQL) e não relacionais (ex. MongoDB)
+  - ORM: Sequelize, Mongoose (Estudando Node JS pela Rocketseat)
+  - Inteligência artificial, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the code 2020 - Mais detalhes no meu Github)
 
 
 
-_I have a degree in civil engineering from UFMG, but I have always worked with IT in parallel._
+## _Main qualifications in IT Infrastructure - DevOps_
 
-_Therefore, I would like to permanently migrate to the IT area._
+- Information management and understanding of people, businesses, technologies and processes.
 
-_I have good knowledge of programming in several languages, but as it is necessary to specialize in one, I am starting to study and focus on Python._
+- Focused on the deployment, configuration, migration and administration and virtualization of systems and networks:
+  - Linux (User for over 20 years, I started with Red Hat by installing it via CD together with Windows. Since 2016 I have permanently migrated from Windows to Linux Mint)
+  - Bash (LinkedIn Competency Assessment Badge)
+  - Cloud
+    - Certified as Google Workspace Administrator
+    - AWS - Amazon Web Services (LinkedIn competency assessment seal and AWS Training Center course “Getting Started with DevOps on AWS”)
+  - Virtualization / Containers / Administration of virtual machines and automation of processes / Delivery and Continuous Integration:
+    - Kubernetes, Docker, Virtualbox
+    - YAML, Ansible, Github Actions
+  - Git (LinkedIn Competency Assessment Seal) / Github - https://github.com/danielramosbh74
 
-_Likewise, I have good knowledge of IT infrastructure, as I have worked as a support technician and network supervisor._
-
-_Therefore, I also continue to study issues related to the IT / DevOps infrastructure to keep me updated as much as possible._
-
+- I know the basics about:
+  - MVC architecture
+  - Algorithms and data structures / notions of programming (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
+  - Agile Methodologies (SCRUM, Kanban, etc.), Jira
+  - Unit tests in Python with Unittest: https://realpython.com/python-testing/#writing-your-first-test
+  - Relational (eg SQL, MySQL) and non-relational (eg MongoDB) databases
+  - ORM: Sequelize, Mongoose (Studying Node JS by Rocketseat)
+  - Artificial Intelligence, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the code 2020 - More details on my Github)
 
 <!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
 
