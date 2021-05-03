@@ -2,8 +2,6 @@
 
 Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é voltar a trabalhar somente na área de TI.
 
-_I have a degree in civil engineering from UFMG, but my goal is to return to work only in the IT area._
-
 ## Principais qualificações em Infraestrutura de TI - DevOps
 
 - Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
@@ -28,7 +26,11 @@ _I have a degree in civil engineering from UFMG, but my goal is to return to wor
   - ORM: Sequelize, Mongoose (Estudando Node JS pela Rocketseat)
   - Inteligência artificial, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the code 2020 - Mais detalhes no meu Github)
 
+# ENGLISH
 
+# Daniel Ramos de Carvalho
+
+_I have a degree in civil engineering from UFMG, but my goal is to return to work only in the IT area._
 
 ## _Main qualifications in IT Infrastructure - DevOps_
 
