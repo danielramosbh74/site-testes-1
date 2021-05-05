@@ -9,9 +9,9 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é voltar a traba
 - Focado na implantação, configuração, migração e administração e virtualização de sistemas e redes:
   - Linux (Usuário há mais de 20 anos, comecei pelo Red Hat instalando-o via CD juntamente com o Windows.     Desde 2016 migrei definitivamente do Windows para o Linux Mint)
   - Bash (Selo de avaliação de competência no LinkedIn)
-  - Cloud
-    - Certificado como Google Workspace Administrator
-    - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn e Curso na AWS Training Center “Getting Started with DevOps on AWS”)
+  - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
+  - Certificado pela Coursera como _Google Workspace Administrator_
+  - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
   - Virtualização / Containers / Administração de máquinas virtuais e automação de processos / Entrega e Integração Contínua:
     - Kubernetes, Docker, Virtualbox
     - YAML, Ansible, Github Actions
@@ -39,9 +39,9 @@ _I have a degree in civil engineering from UFMG, but my goal is to return to wor
 - Focused on the deployment, configuration, migration and administration and virtualization of systems and networks:
   - Linux (User for over 20 years, I started with Red Hat by installing it via CD together with Windows. Since 2016 I have permanently migrated from Windows to Linux Mint)
   - Bash (LinkedIn Competency Assessment Badge)
-  - Cloud
-    - Certified as Google Workspace Administrator
-    - AWS - Amazon Web Services (LinkedIn competency assessment seal and AWS Training Center course “Getting Started with DevOps on AWS”)
+  - GCP - Google Cloud Platform (LinkedIn Competency Assessment Badge)
+  - Certified by Coursera as a _Google Workspace Administrator_
+  - AWS - Amazon Web Services (LinkedIn Competency Assessment Badge)
   - Virtualization / Containers / Administration of virtual machines and automation of processes / Delivery and Continuous Integration:
     - Kubernetes, Docker, Virtualbox
     - YAML, Ansible, Github Actions
