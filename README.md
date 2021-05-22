@@ -1,60 +1,62 @@
 # Daniel Ramos de Carvalho
 
-Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é voltar a trabalhar somente na área de TI.
+Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma nova carreira na área de TI.
+
 
 ## Principais qualificações em Infraestrutura de TI - DevOps
 
 - Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
-
-- Focado na implantação, configuração, migração e administração e virtualização de sistemas e redes:
+- Inglês avançado para ler e ouvir e intermediário para escrever e falar.
+- Implantação, configuração, migração e administração e virtualização de sistemas e redes:
   - Linux (Usuário há mais de 20 anos, comecei pelo Red Hat instalando-o via CD juntamente com o Windows.     Desde 2016 migrei definitivamente do Windows para o Linux Mint)
   - Bash (Selo de avaliação de competência no LinkedIn)
   - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
-  - Certificado pela Coursera como _Google Workspace Administrator_
+  - Google Workspace Administrator (Certificado pela Coursera)
   - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
   - Virtualização / Containers / Administração de máquinas virtuais e automação de processos / Entrega e Integração Contínua:
-    - Kubernetes, Docker, Virtualbox
-    - YAML, Ansible, Github Actions
-  - Git (Selo de avaliação de competência no LinkedIn) / Github - https://github.com/danielramosbh74
-
+    - Docker, Virtualbox
+    - YAML, Github Actions
+  - Git (Selo de avaliação de competência no LinkedIn)
+  - Github - https://github.com/danielramosbh74
 - Conheço os conceitos básicos sobre: 
   - Arquitetura MVC
   - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
   - Metodologias Ágeis (SCRUM, Kanban, etc), Jira
   - Testes unitários em Python com o Unittest: https://realpython.com/python-testing/#writing-your-first-test
-  - Bancos de dados relacionais (ex. SQL, MySQL) e não relacionais (ex. MongoDB)
+  - Bancos de dados relacionais (ex. MySQL) e não relacionais (ex. MongoDB)
   - ORM: Sequelize, Mongoose (Estudando Node JS pela Rocketseat)
-  - Inteligência artificial, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the code 2020 - Mais detalhes no meu Github)
+  - Inteligência artificial, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the code 2020)
 
 # ENGLISH
 
 # Daniel Ramos de Carvalho
 
-_I have a degree in civil engineering from UFMG, but my goal is to return to work only in the IT area._
+_I have a degree in civil engineering from UFMG, but my goal is to start a new career in the IT area._
 
 ## _Main qualifications in IT Infrastructure - DevOps_
 
 - Information management and understanding of people, businesses, technologies and processes.
-
-- Focused on the deployment, configuration, migration and administration and virtualization of systems and networks:
+- Advanced English for reading and listening and intermediate for writing and speaking.
+- Deployment, configuration, migration and administration and virtualization of systems and networks:
   - Linux (User for over 20 years, I started with Red Hat by installing it via CD together with Windows. Since 2016 I have permanently migrated from Windows to Linux Mint)
   - Bash (LinkedIn Competency Assessment Badge)
-  - GCP - Google Cloud Platform (LinkedIn Competency Assessment Badge)
-  - Certified by Coursera as a _Google Workspace Administrator_
+  - GCP - Google Cloud Platform (LinkedIn competency assessment badge)
+  - Google Workspace Administrator (Certified by Coursera)
   - AWS - Amazon Web Services (LinkedIn Competency Assessment Badge)
   - Virtualization / Containers / Administration of virtual machines and automation of processes / Delivery and Continuous Integration:
-    - Kubernetes, Docker, Virtualbox
-    - YAML, Ansible, Github Actions
-  - Git (LinkedIn Competency Assessment Seal) / Github - https://github.com/danielramosbh74
-
+    - Docker, Virtualbox
+    - YAML, Github Actions
+  - Git (LinkedIn Competency Assessment Badge)
+  - Github - https://github.com/danielramosbh74
 - I know the basics about:
   - MVC architecture
   - Algorithms and data structures / notions of programming (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
   - Agile Methodologies (SCRUM, Kanban, etc.), Jira
   - Unit tests in Python with Unittest: https://realpython.com/python-testing/#writing-your-first-test
-  - Relational (eg SQL, MySQL) and non-relational (eg MongoDB) databases
+  - Relational (eg MySQL) and non-relational (eg MongoDB) databases
   - ORM: Sequelize, Mongoose (Studying Node JS by Rocketseat)
-  - Artificial Intelligence, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the code 2020 - More details on my Github)
+  - Artificial Intelligence, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the code 2020)
+
 
 <!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
 
