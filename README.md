@@ -12,6 +12,7 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
   - Bash (Selo de avaliação de competência no LinkedIn)
   - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
   - Google Workspace Administrator (Certificado pela Coursera)
+  ![](https://github.com/danielramosbh74/danielramosbh74/blob/master/images/Google_Workspace_Administration_Certificate.jpeg)
   - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
   - Virtualização / Containers / Administração de máquinas virtuais e automação de processos / Entrega e Integração Contínua:
     - Docker, Virtualbox
