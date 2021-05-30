@@ -39,7 +39,7 @@ _I have a degree in civil engineering from UFMG, but my goal is to start a new c
 - Information management and understanding of people, businesses, technologies and processes.
 - Advanced English for reading and listening and intermediate for writing and speaking.
 - Deployment, configuration, migration and administration and virtualization of systems and networks:
-  - Linux (User for over 20 years, I started with Red Hat by installing it via CD together with Windows. Since 2016 I have permanently migrated from Windows to Linux Mint)
+  - Linux (LinkedIn Competency Assessment Badge)
   - Bash (LinkedIn Competency Assessment Badge)
   - GCP - Google Cloud Platform (LinkedIn competency assessment badge)
   - Google Workspace Administrator (Certified by Coursera)
