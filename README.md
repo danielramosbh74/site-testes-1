@@ -23,10 +23,9 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
   - Arquitetura MVC
   - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
   - Metodologias Ágeis (SCRUM, Kanban, etc), Jira
-  - Testes unitários em Python com o Unittest: https://realpython.com/python-testing/#writing-your-first-test
   - Bancos de dados relacionais (ex. MySQL) e não relacionais (ex. MongoDB)
-  - ORM: Sequelize, Mongoose (Estudando Node JS pela Rocketseat)
-  - Inteligência artificial, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the code 2020)
+  - ORM - Object Relational Mapper (ex. Sequelize, Mongoose, Django Migrations)
+  - Inteligência artificial, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the Code 2020)
 
 # ENGLISH
 
@@ -53,10 +52,9 @@ _I have a degree in civil engineering from UFMG, but my goal is to start a new c
   - MVC architecture
   - Algorithms and data structures / notions of programming (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
   - Agile Methodologies (SCRUM, Kanban, etc.), Jira
-  - Unit tests in Python with Unittest: https://realpython.com/python-testing/#writing-your-first-test
   - Relational (eg MySQL) and non-relational (eg MongoDB) databases
-  - ORM: Sequelize, Mongoose (Studying Node JS by Rocketseat)
-  - Artificial Intelligence, Machine Learning, Datasets, Python, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the code 2020)
+  - ORM - Object Relational Mapper (ex. Sequelize, Mongoose, Django Migrations)
+  - Artificial Intelligence, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the Code 2020)
 
 
 <!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
