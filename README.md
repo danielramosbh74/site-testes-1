@@ -17,7 +17,7 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
   - Git (Selo de avaliação de competência no LinkedIn) - Github - https://github.com/danielramosbh74
   - Virtualização / Containers / Entrega e Integração Contínua:
     - Docker, docker-machine, Virtualbox
-    - YAML, doker-compose (Dockerfile), Github Actions
+    - YAML, docker-compose (Dockerfile), Github Actions
 - Conheço os conceitos básicos sobre: 
   - Arquitetura MVC
   - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
@@ -45,7 +45,7 @@ _I have a degree in civil engineering from UFMG, but my goal is to start a new c
   - Git (LinkedIn Competency Assessment Badge) - Github - https://github.com/danielramosbh74
   - Virtualization / Containers / Delivery and Continuous Integration:
     - Docker, docker-machine, Virtualbox
-    - YAML, doker-compose (Dockerfile), Github Actions
+    - YAML, docker-compose (Dockerfile), Github Actions
 - I know the basics about:
   - MVC architecture
   - Algorithms and data structures / notions of programming (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
