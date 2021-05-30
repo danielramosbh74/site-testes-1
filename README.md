@@ -8,7 +8,7 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
 - Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
 - Inglês avançado para ler e ouvir e intermediário para escrever e falar.
 - Implantação, configuração, migração e administração e virtualização de sistemas e redes:
-  - Linux (Usuário há mais de 20 anos, comecei pelo Red Hat instalando-o via CD juntamente com o Windows.     Desde 2016 migrei definitivamente do Windows para o Linux Mint)
+  - Linux (Selo de avaliação de competência no LinkedIn)
   - Bash (Selo de avaliação de competência no LinkedIn)
   - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
   - Google Workspace Administrator (Certificado pela Coursera)
