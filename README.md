@@ -1,6 +1,10 @@
 # Daniel Ramos de Carvalho
 
-Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma nova carreira na área de TI.
+Super feliz com o meu emprego atual na Keyrus.
+
+Minha intenção neste momento é apenas valorizar e retribuir com trabalho e dedicação à empresa que me deu esta tão sonhada oportunidade de trabalho.
+
+Orgulho de fazer parte de uma empresa tão organizada e de um time de pessoas tão educadas e profissionais.
 
 
 ## Principais qualificações em Infraestrutura de TI - DevOps
@@ -16,7 +20,7 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
   - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
   - Git (Selo de avaliação de competência no LinkedIn) - Github - https://github.com/danielramosbh74
   - Virtualização / Containers / Entrega e Integração Contínua:
-    - Docker, docker-machine, Virtualbox
+    - Virtualbox, Docker, Kubernetes
     - YAML, docker-compose (Dockerfile), Github Actions
 - Conheço os conceitos básicos sobre: 
   - Arquitetura MVC
@@ -30,7 +34,11 @@ Sou graduado em engenharia civil pela UFMG, mas o meu objetivo é iniciar uma no
 
 # Daniel Ramos de Carvalho
 
-_I have a degree in civil engineering from UFMG, but my goal is to start a new career in the IT area._
+_Super happy with my current job at Keyrus._
+
+_My intention at this point is just to value and pay back with hard work and dedication to the company that gave me this long-awaited job opportunity._
+
+_Proud to be part of such an organized company and a team of educated and professional people._
 
 ## _Main qualifications in IT Infrastructure - DevOps_
 
@@ -44,7 +52,7 @@ _I have a degree in civil engineering from UFMG, but my goal is to start a new c
   - AWS - Amazon Web Services (LinkedIn Competency Assessment Badge)
   - Git (LinkedIn Competency Assessment Badge) - Github - https://github.com/danielramosbh74
   - Virtualization / Containers / Delivery and Continuous Integration:
-    - Docker, docker-machine, Virtualbox
+    - Virtualbox, Docker, Kubernetes
     - YAML, docker-compose (Dockerfile), Github Actions
 - I know the basics about:
   - MVC architecture
