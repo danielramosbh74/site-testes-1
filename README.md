@@ -1,67 +1,61 @@
 # Daniel Ramos de Carvalho
 
-Super feliz com o meu emprego atual na Keyrus.
+Engenheiro Civil - UFMG - 1997, mas atualmente trabalho na área de TI como Analista de Infraestrutura Cloud.
 
-Minha intenção neste momento é apenas valorizar e retribuir com trabalho e dedicação à empresa que me deu esta tão sonhada oportunidade de trabalho.
-
-Orgulho de fazer parte de uma empresa tão organizada e de um time de pessoas tão educadas e profissionais.
-
-
-## Principais qualificações em Infraestrutura de TI - DevOps
+## Principais qualificações em Infraestrutura de TI
 
 - Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
 - Inglês avançado para ler e ouvir e intermediário para escrever e falar.
-- Implantação, configuração, migração e administração e virtualização de sistemas e redes:
+- Implantação, configuração, migração e administração de sites, lojas virtuais, sistemas e redes:
   - Linux (Selo de avaliação de competência no LinkedIn)
   - Bash (Selo de avaliação de competência no LinkedIn)
   - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
   - Google Workspace Administrator (Certificado pela Coursera)
-  ![](https://github.com/danielramosbh74/danielramosbh74/blob/master/images/Google_Workspace_Administration_Certificate.jpeg)
   - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
+  - Azure - Usuário no atual emprego. Estudando para a certificação Azure Fundamentals - AZ-900
   - Git (Selo de avaliação de competência no LinkedIn) - Github - https://github.com/danielramosbh74
-  - Virtualização / Containers / Entrega e Integração Contínua:
+  - Virtualização / Containers:
     - Virtualbox, Docker, Kubernetes
+  - Entrega e Integração Contínua
     - YAML, docker-compose (Dockerfile), Github Actions
 - Conheço os conceitos básicos sobre: 
   - Arquitetura MVC
   - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
-  - Metodologias Ágeis (SCRUM, Kanban, etc), Jira
-  - Bancos de dados relacionais (ex. MySQL) e não relacionais (ex. MongoDB)
+  - Metodologias Ágeis (SCRUM, Kanban, etc), Jira / Confluence
+  - Bancos de dados relacionais (ex. Aurora, MySQL, Postgres) e não relacionais (ex. MongoDB), 
   - ORM - Object Relational Mapper (ex. Sequelize, Mongoose, Django Migrations)
-  - Inteligência artificial, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks IBM Cloud (Participei da Maratona IBM Behind the Code 2020)
+  - Inteligência artificial, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks, IBM Cloud (Participei da Maratona IBM Behind the Code 2020)
+
 
 # ENGLISH
 
 # Daniel Ramos de Carvalho
 
-_Super happy with my current job at Keyrus._
+Civil Engineer - UFMG - 1997, but currently working in the IT area as Cloud Infrastructure Analyst.
 
-_My intention at this point is just to value and pay back with hard work and dedication to the company that gave me this long-awaited job opportunity._
-
-_Proud to be part of such an organized company and a team of educated and professional people._
-
-## _Main qualifications in IT Infrastructure - DevOps_
+## Main qualifications in IT Infrastructure - DevOps
 
 - Information management and understanding of people, businesses, technologies and processes.
 - Advanced English for reading and listening and intermediate for writing and speaking.
-- Deployment, configuration, migration and administration and virtualization of systems and networks:
-  - Linux (LinkedIn Competency Assessment Badge)
-  - Bash (LinkedIn Competency Assessment Badge)
-  - GCP - Google Cloud Platform (LinkedIn Competency Assessment Badge)
+- Implementation, configuration, migration and administration of websites, online stores, systems and networks:
+  - Linux (LinkedIn Competency Assessment Seal)
+  - Bash (LinkedIn Competency Assessment Seal)
+  - GCP - Google Cloud Platform (LinkedIn Competency Assessment Seal)
   - Google Workspace Administrator (Certified by Coursera)
-  - AWS - Amazon Web Services (LinkedIn Competency Assessment Badge)
-  - Git (LinkedIn Competency Assessment Badge) - Github - https://github.com/danielramosbh74
-  - Virtualization / Containers / Delivery and Continuous Integration:
+  - AWS - Amazon Web Services (LinkedIn Competency Assessment Seal)
+  - Azure - User in current job. Studying for Azure Fundamentals Certification - AZ-900
+  - Git (LinkedIn Competency Assessment Seal) - Github - https://github.com/danielramosbh74
+  - Virtualization / Containers:
     - Virtualbox, Docker, Kubernetes
+  - Delivery and Continuous Integration
     - YAML, docker-compose (Dockerfile), Github Actions
 - I know the basics about:
   - MVC architecture
-  - Algorithms and data structures / notions of programming (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
-  - Agile Methodologies (SCRUM, Kanban, etc.), Jira
-  - Relational (eg MySQL) and non-relational (eg MongoDB) databases
-  - ORM - Object Relational Mapper (ex. Sequelize, Mongoose, Django Migrations)
-  - Artificial Intelligence, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks IBM Cloud (I participated in the IBM Marathon Behind the Code 2020)
-
+  - Algorithms and data structures / Programming notions (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
+  - Agile Methodologies (SCRUM, Kanban, etc), Jira / Confluence
+  - Relational (eg Aurora, MySQL, Postgres) and non-relational (eg MongoDB) databases
+  - ORM - Object Relational Mapper (eg Sequelize, Mongoose, Django Migrations)
+  - Artificial Intelligence, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks, IBM Cloud (I participated in the IBM Behind the Code 2020 Marathon)
 
 <!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
 
