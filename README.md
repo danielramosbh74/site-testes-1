@@ -1,63 +1,22 @@
-# Daniel Ramos de Carvalho
+# Principais serviços
 
-Engenheiro Civil - UFMG - 1997, mas atualmente trabalho na área de TI como Analista de Infraestrutura Cloud.
+- Implantação de sistemas de código aberto
 
-## Principais qualificações em Infraestrutura de TI
+- Backup de arquivos
 
-- Gerenciamento de informações e compreensão de pessoas, negócios, tecnologias e processos.
-- Inglês avançado para ler e ouvir e intermediário para escrever e falar.
-- Implantação, configuração, migração e administração de sites, lojas virtuais, sistemas e redes:
-  - Linux (Selo de avaliação de competência no LinkedIn)
-  - Bash (Selo de avaliação de competência no LinkedIn)
-  - GCP - Google Cloud Platform (Selo de avaliação de competência no LinkedIn)
-  - Google Workspace Administrator (Certificado pela Coursera)
-  - AWS - Amazon Web Services (Selo de avaliação de competência no LinkedIn)
-  - Azure - Usuário no atual emprego. Estudando para a certificação Azure Fundamentals - AZ-900
-  - Git (Selo de avaliação de competência no LinkedIn) - Github - https://github.com/danielramosbh74
-  - Virtualização / Containers:
-    - Virtualbox, Docker, Kubernetes
-  - Entrega e Integração Contínua
-    - YAML, docker-compose (Dockerfile), Github Actions
-- Conheço os conceitos básicos sobre: 
-  - Arquitetura MVC
-  - Algoritmos e estruturas de dados / Noções de programação (ex. variáveis, funções, loops, arrays, operadores lógicos, estruturas condicionais, objetos), independente da linguagem.
-  - Metodologias Ágeis (SCRUM, Kanban, etc), Jira / Confluence
-  - Bancos de dados relacionais (ex. Aurora, MySQL, Postgres) e não relacionais (ex. MongoDB), 
-  - ORM - Object Relational Mapper (ex. Sequelize, Mongoose, Django Migrations)
-  - Inteligência artificial, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks, IBM Cloud (Participei da Maratona IBM Behind the Code 2020)
+- Formatação de computadores.
+Importante: serviço realizado somente com a instalação de distribuições Linux (Sofwtare livre, legalizado e gratuito) voltadas para desktops (ex. Linux Mint e Tiger OS)
 
+- Implantacão, configuração e migração de sistemas web (ex.imobiliárias) e de emissão de cupons e notas fiscais
+(O ECF deve ser desenvolvido para Linux, em PHP / MySQL ou em qualquer linguagem que possa rodar pelo navegador)
 
-# ENGLISH
+- Criação e edição remota de planilhas administrativas.
 
-# Daniel Ramos de Carvalho
+- Suporte técnico e trabalho remoto 
+(Assistente virtual)
 
-Civil Engineer - UFMG - 1997, but currently working in the IT area as Cloud Infrastructure Analyst.
+- DevOps remoto  - Administração de servidores Linux Ubuntu físicos ou instâncias na nuvem (ex. AWS EC2, Docker, Kubernetes).
 
-## Main qualifications in IT Infrastructure - DevOps
-
-- Information management and understanding of people, businesses, technologies and processes.
-- Advanced English for reading and listening and intermediate for writing and speaking.
-- Implementation, configuration, migration and administration of websites, online stores, systems and networks:
-  - Linux (LinkedIn Competency Assessment Seal)
-  - Bash (LinkedIn Competency Assessment Seal)
-  - GCP - Google Cloud Platform (LinkedIn Competency Assessment Seal)
-  - Google Workspace Administrator (Certified by Coursera)
-  - AWS - Amazon Web Services (LinkedIn Competency Assessment Seal)
-  - Azure - User in current job. Studying for Azure Fundamentals Certification - AZ-900
-  - Git (LinkedIn Competency Assessment Seal) - Github - https://github.com/danielramosbh74
-  - Virtualization / Containers:
-    - Virtualbox, Docker, Kubernetes
-  - Delivery and Continuous Integration
-    - YAML, docker-compose (Dockerfile), Github Actions
-- I know the basics about:
-  - MVC architecture
-  - Algorithms and data structures / Programming notions (eg variables, functions, loops, arrays, logical operators, conditional structures, objects), regardless of language.
-  - Agile Methodologies (SCRUM, Kanban, etc), Jira / Confluence
-  - Relational (eg Aurora, MySQL, Postgres) and non-relational (eg MongoDB) databases
-  - ORM - Object Relational Mapper (eg Sequelize, Mongoose, Django Migrations)
-  - Artificial Intelligence, Machine Learning, Datasets, Python, Pandas, Jupyter Notebook / Google Colab Notebooks, IBM Cloud (I participated in the IBM Behind the Code 2020 Marathon)
-
-<!-- ## [Currículo](https://docs.google.com/document/d/1qwTXHvnYy-VAkCYS09f7etmYj8XaCxZmN1PT6pNsMIo/edit?usp=sharing) | [_English Resume_](https://docs.google.com/document/d/1S96gmuiGEplLz-ZoijuSvP4_5_fxKZrvGu5EtwekRXk/edit?usp=sharing) -->
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
@@ -72,45 +31,6 @@ Civil Engineer - UFMG - 1997, but currently working in the IT area as Cloud Infr
 ### Veja mais | _Read more_
 -->
 
-<!--
-- [Pacotes publicados aqui no Github](https://github.com/danielramosbh74?tab=packages)
-- [Meus repósitórios aqui no Github](https://github.com/danielramosbh74?tab=repositories)
-- Alguns projetos onde colaborei:
-  - https://github.com/filipedeschamps/BrasilAPI - Update CONTRIBUTING.md
-  - https://github.com/evbacher/gd2md-html - Update dev-pt-br.md
-  - Arctic Code Vault Contributor - danielramosbh74/wordpressplugin01
-- **Cursos concluídos**
-  - Javascripting - [Nodeshool](https://nodeschool.io/)
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/javascripting-menu.png?raw=true">
-  - Javascript - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-javascript.png?raw=true">
-  - ES6 - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-ES6.png?raw=true">
-  - **NodeJS** - [Rocketseat - Starter](https://app.rocketseat.com.br/starter)
-  - <img width="400px" align="center" src="https://github.com/danielramosbh74/danielramosbh74/blob/master/images/rocketseat-starter-nodejs-concluido.png?raw=true">
-<!--
-### Clientes
-- [MBM Engenharia](https://www.mbmengenhariabh.com.br/)
-- [Brasil Idiomas](http://brasilidiomas.com.co/)
-
-<!-- ### Crowdfunding - Financiamento coletivo - Investidores Anjo
-- [Campanha no Apoia-se](https://apoia.se/webmaster1)
-- Entre em contato comigo pelo e-mail ou Whatsapp para conversarmos mais a respeito da viabilidade de alguns projetos (seus e meus) e eu te apresentar um "Plano de negócios" resumido sobre alguns projetos que tenho em mente depois de ouvir os seus. -->
-
-<!--
-### Hobbies - Músicas e outras coisas que acho interessantes
-- Playlists diversas no YouTube
-  - [Cool things and study](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOFOOMTzP8pAdby_3PoC911)
-  - [Tips](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOfM9t69ABnK67LV1DZaBeN)
-- Algumas Músicas
-  - [Hard rock 1](https://www.youtube.com/playlist?list=PLJ2ujWpVndPOra5G_XA-dgF7_SgHR5jiQ)
-  - [Pet Shop Boys - Originals x Covers](https://www.youtube.com/playlist?list=PLJ2ujWpVndPO31TKSTyAbfY9KE4ROLyny)
-
-<!-- ### Artigos
-- [Foco e Networking](https://www.linkedin.com/pulse/foco-e-networking-daniel-ramos-de-carvalho)
-- [Outros ganhos com o Networking](https://www.linkedin.com/pulse/outros-ganhos-com-o-networking-daniel-ramos-de-carvalho) -->
-
-<!--
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
--->
+
