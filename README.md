@@ -1,21 +1,20 @@
 # Principais serviços
 
-- Implantação de sistemas de código aberto
+Participando voluntariamente do projeto Tiger OS - www.tigeros.com.br 
 
-- Backup de arquivos
+Prestando os serviços abaixo, principalmente para microempreendedores:
 
-- Formatação de computadores.
-Importante: serviço realizado somente com a instalação de distribuições Linux (Sofwtare livre, legalizado e gratuito) voltadas para desktops (ex. Linux Mint e Tiger OS)
+- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas
 
-- Implantacão, configuração e migração de sistemas web (ex.imobiliárias) e de emissão de cupons e notas fiscais
-(O ECF deve ser desenvolvido para Linux, em PHP / MySQL ou em qualquer linguagem que possa rodar pelo navegador)
+- Implantação e administração de novos domínios no Google Workspace
+
+- Treinamento nos principais Google Apps: Drive, Documentos, Planilhas, Agenda.
+
+- Revenda do Click Gestão - http://gestao.click/540131
+
+- Consultoria aplicada remota sobre assuntos diversos de TI e gestão de pequenos empreendimentos.
 
 - Criação e edição remota de planilhas administrativas.
-
-- Suporte técnico e trabalho remoto 
-(Assistente virtual)
-
-- DevOps remoto  - Administração de servidores Linux Ubuntu físicos ou instâncias na nuvem (ex. AWS EC2, Docker, Kubernetes).
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
