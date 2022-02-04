@@ -4,9 +4,9 @@ Participando voluntariamente do projeto Tiger OS - www.tigeros.com.br
 
 Prestando os serviços abaixo, principalmente para microempreendedores:
 
-- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas
+- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas.
 
-- Implantação e administração de novos domínios no Google Workspace
+- Implantação e administração de novos domínios no Google Workspace.
 
 - Treinamento nos principais Google Apps: Drive, Documentos, Planilhas, Agenda.
 
@@ -15,6 +15,8 @@ Prestando os serviços abaixo, principalmente para microempreendedores:
 - Consultoria aplicada remota sobre assuntos diversos de TI e gestão de pequenos empreendimentos.
 
 - Criação e edição remota de planilhas administrativas.
+
+- Implantação, configuração, migração e administração de domínios e de sites baseados em WordPress e em PHP / MySQL.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
