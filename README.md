@@ -16,8 +16,6 @@ Prestando os serviços abaixo, principalmente para microempreendedores:
 
 - Criação e edição remota de planilhas administrativas.
 
-- Implantação, configuração, migração e administração de domínios e de sites baseados em WordPress e em PHP / MySQL.
-
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
