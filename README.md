@@ -10,7 +10,7 @@ Prestando os serviços abaixo, principalmente para microempreendedores:
 
 - Treinamento nos principais Google Apps: Drive, Documentos, Planilhas, Agenda.
 
-- Revenda do Click Gestão - http://gestao.click/540131
+- Revenda do Gestão Click - http://gestao.click/540131
 
 - Consultoria aplicada remota sobre assuntos diversos de TI e gestão de pequenos empreendimentos.
 
