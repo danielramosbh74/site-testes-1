@@ -4,18 +4,29 @@ Participando voluntariamente do projeto Tiger OS - www.tigeros.com.br
 
 Prestando os serviços abaixo, principalmente para microempreendedores:
 
-- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas.
+- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas
 
-- Implantação e administração de novos domínios no Google Workspace.
+- Revenda do Gestão Click - http://gestao.click/540131 
 
-- Treinamento nos principais Google Apps: Drive, Documentos, Planilhas, Agenda.
+Estudando assuntos relacionados ao cargo de Analista de Infraestrutura de TI / DevOps:
 
-- Revenda do Gestão Click - http://gestao.click/540131
+- AWS (EC2, ECS, EKS e demais serviços da Amazon)
+- Infraestrutura como código e automação de pipelines (YAML, Bash (Shell Script), Github Actions, Jenkins, Terraform, Ansible)
+- Monitoramento (CloudWatch)
+- Containers (Docker, Kubernetes)
+- Desenvolvimento ágil (Jira / Confluence / Kanban)
+- Python
 
-- Consultoria aplicada remota sobre assuntos diversos de TI e gestão de pequenos empreendimentos.
+Alguns assuntos que estudei e trabalhei, mesmo em curtos períodos, em projetos próprios ou como freelancer:
 
-- Criação e edição remota de planilhas administrativas.
-
+- PHP / MySQL (WordPress, Joomla, PHPBB, SugarCRM, OSCommerce, Magento, Moodle)
+- HTML, CSS, Javascript (incluindo o Node.js, que estudei durante a NLW#2 da Rocketseat)
+- JSON, XML, YAML (Github Actions, Jenkins)
+- API REST
+- Containers: Docker e Kubernetes
+- Java - Apache Maven, Spring, Tomcat.
+- Python - Pandas, Jupyter Notebook
+- Sequelize, MongoDB
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
