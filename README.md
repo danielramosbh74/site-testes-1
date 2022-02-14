@@ -1,14 +1,21 @@
 # Site de testes 1
 
-site-no-github-pages-com-o-jekyll-configurado-no-docker-compose
+Este repositório foi criado principalmente para:
+
+1. Me organizar internamente e me lembrar de alguns passos simples porém importantes na criação de qualquer site ou web app a partir do zero no Github Pages, que trabalha somente com arquivos ESTÁTICOS (HTML, CSS e Javascript)
+2. Demonstrar algumas coisas interessantes, como:
+2.1 A "simplicidade" do uso deste arquivo README.md para documentar o que está sendo feito
+2.2 O uso do *Github actions*, que cria um _builds and deployments_ automáticos usando o *Jetkyll* cada vez que fazemos upload de novos arquivos no repositório
+
+Em breve, pretendo configurar também uma outra pipeline no Github Actions configurando o Jekyll no Dockerfile ou no docker-compose.
 
 ## Status
 
-AINDA COM ERROS
+AINDA COM ERROS, mas evoluindo passo a passo
 
 ## Referências
 
-https://www.google.com/search?q=github+pages+with+docker&client=ms-android-samsung-gj-rev1&sxsrf=APq-WBvA3j0p7-yw5zzhjQYCg5prnr2pHg%3A1644598704688&ei=sJUGYuetKf_V1sQPkd63iA8&ved=0ahUKEwjnxdzMj_j1AhX_qpUCHRHvDfEQ4dUDCA4&uact=5&oq=github+pages+with+docker&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEKIEMgUIABCiBDIFCAAQogRKBAhBGABKBAhGGABQAFh2YLMDaABwAXgAgAH8AYgBiwOSAQUwLjEuMZgBAKABAcABAQ&sclient=gws-wiz
+https://www.google.com/search?q=github+pages+with+docker&client
 
 https://enriquecatala.com/2020/05/28/Creating-my-new-blog-with-Jekyll.html
 
