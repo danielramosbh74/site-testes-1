@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Serviços"
-permalink: /site-testes-1/pages/servicos.md
+permalink: /site-testes-1/pages/
 ---
-#Serviços
+# Serviços
 
 - Criação de Sites Estáticos diretamente no Github usando o Jekyll no Github Pages
 <br>Alguns usos e vantagens dos Sites Estáticos:
