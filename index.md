@@ -10,5 +10,5 @@ O Jetkyll "compila" o arquivo .md durante o "build", aplica o tema e converte pa
 
 Exemplo de links com descrição 
 - [Página inicial](https://danielramosbh74.github.io/site-testes-1/index.html).
-- [Outra página](https://danielramosbh74.github.io/site-testes-1/outra-pagina/comandosgitparaatualizacao.html).
-
+- [Outra página](https://danielramosbh74.github.io/site-testes-1/pages/comandosgitparaatualizacao.html).
+- [Serviços](https://danielramosbh74.github.io/site-testes-1/pages/servicos.md).
