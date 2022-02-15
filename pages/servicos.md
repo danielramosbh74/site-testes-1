@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Serviços"
-permalink: /servicos.md
+permalink: /pages/servicos.md
 ---
 # Serviços
 
