@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Serviços"
-permalink: /site-testes-1/pages/
+permalink: /site-testes-1/pages/servicos.md
 ---
 #Serviços
 
